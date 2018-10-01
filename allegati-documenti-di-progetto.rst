@@ -21,7 +21,7 @@ dal bando di gara fino ai più recenti prototipi.
    
    * - Offerta LCD e BSD
      - Pdf
-     - `Vai al documento <https://drive.google.com/file/d/1nnhJGd_qD-A97Varw9gMiVN20AKs2ymW/view?usp=sharing>`_
+     - `Vai al documento <https://drive.google.com/file/d/1n9C7RykxkHVsFGmg929GGIUbL39l-xOm/view?usp=sharing>`_
 
    * - Design siti scuole: sintesi del progetto
      - Google Slides
