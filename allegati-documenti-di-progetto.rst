@@ -59,17 +59,29 @@ dal bando di gara fino ai più recenti prototipi.
      - Google Slides
      - `Vai al documento <https://docs.google.com/presentation/d/1VLF0QwVGFba7XQppWjdjh2cxDAq0_19XnTurXegilDA/edit?usp=sharing>`_
 
-   * - Architettura dell'informazione: navigation tree
+   * - Ricerca quantitativa: tavole analisi statistiche
      - Foglio di lavoro
-     - In lavorazione
+     - `Vai alla cartella condivisa <https://drive.google.com/drive/folders/1HSpSO3N1ryMMYJD5ysD2zk-fSH7oqQl7?usp=sharing>`_
+
+   * - Personas
+     - Google Slides
+     - `Vai al documento <https://docs.google.com/presentation/d/1OJzrR2DeogrNP1x-EQsNXaAwkTCQVhWwJT1ds5SY2JA/edit?usp=sharing>`_
+
+   * - Architettura dell'informazione: navigation tree
+     - PDF
+     - `Vai alla cartella condivisa <https://drive.google.com/drive/folders/1GshUbT_rITGTHqAImkAsFtfOrxzHZFPW>`_
 
    * - Architettura dell'informazione: lista tag per classificazione contenuti
      - Foglio di lavoro
      - `Vai al documento <https://docs.google.com/spreadsheets/d/1dq-xtqBCxUDn6CqTu4uT242UiinP3O2BtGUwAbt2JfE/edit?usp=sharing>`_
 
+   * - Content type
+     - Airtable
+     - `Vai al documento (richiede un account) <https://airtable.com/tblCQfNcTpYxGepPu/viwwN3hvsqhgPj4LZ>`_
+
    * - Scenari d'uso del servizio
-     - Foglio di lavoro
-     - `Vai al documento <https://docs.google.com/spreadsheets/d/1s91eLTAsdy3F5t_3LtQNyCzIYiSf7KjyOz5awDJs3v0/edit?usp=sharing>`_
+     - Fogli di lavoro
+     - `Vai alla cartella condivisa <https://drive.google.com/drive/folders/1-KKoXFLtQ_XTdufVn2LeMlDrAo2GFMhd?usp=sharing>`_
 
    * - Mappa degli scenari
      - Pdf
@@ -100,14 +112,6 @@ dal bando di gara fino ai più recenti prototipi.
    * - Report della valutazione del concept
      - Google Docs
      - `Vai al documento <https://docs.google.com/document/d/18EFUs2YiOMS58iDGonJ131lM4foqIGVVs51NdVKj__0/edit?usp=sharing>`_
-
-   * - Principi guida per il modello di siti delle scuole
-     - Google Slides
-     - In lavorazione
-
-   * - Personas
-     - Google Slides
-     - `Vai al documento <https://docs.google.com/presentation/d/1OJzrR2DeogrNP1x-EQsNXaAwkTCQVhWwJT1ds5SY2JA/edit?usp=sharing>`_
 
    * - Presentazione generale dei risultati (webinar)
      - Google Slides
