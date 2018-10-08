@@ -115,4 +115,4 @@ dal bando di gara fino ai più recenti prototipi.
 
    * - Presentazione generale dei risultati (webinar)
      - Google Slides
-     - `Vai al documento <https://docs.google.com/presentation/d/1RcN3BOTEAD8qxEREjXEHC3DZl0JmRBDOdJ_EaWayqOw/edit#slide=id.g3dc098a6ad_5_132>`_
+     - `Vai al documento <https://docs.google.com/presentation/d/1RcN3BOTEAD8qxEREjXEHC3DZl0JmRBDOdJ_EaWayqOw>`_
