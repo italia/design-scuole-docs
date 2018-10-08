@@ -7,15 +7,12 @@ Il prototipo hi-fi viene costruito usando lo `UI kit di Designers
 Italia <https://designers.italia.it/kit/ui-kit/>`__. 
 
 .. figure:: .././media/home-page-scuola.png
-   :width: 5.81771in
-   :height: 3.44037in
+   :width: 5.82in
    :name: hp-hifi
    :alt: Home page del sito di una scuola
 
    Esempio di home page del sito di una scuola, nella versione
    desktop (sinistra) e mobile (destra).
-
-:ref:`copia link <hp-hifi>`
 
 La progettazione delle pagine è *responsive*, *mobile-first* e a moduli, a
 cominciare dalla *home page* (vedi :numref:`Figura %s <hp-hifi>`) e in tutte le 
@@ -26,15 +23,12 @@ facilmente le quattro aree del sito. Come si vede dalla :numref:`Figura %s <hp-2
 il design dei contenuti punta sulla semplicità e sulla chiarezza.
 
 .. figure:: .././media/sezione-sito.png
-   :width: 5.81771in
-   :height: 3.44037in
+   :width: 5.82in
    :name: hp-sez
    :alt: Sezione del sito di una scuola
 
    Esempio di una sezione del sito nella versione desktop (sinistra) e mobile (destra).     
    
-:ref:`copia link <hp-sez>`
-
 .. figure:: .././media/carta-id-scuola.png
    :width: 2.90268in
    :alt: Home page di secondo livello
@@ -43,8 +37,6 @@ il design dei contenuti punta sulla semplicità e sulla chiarezza.
    Prototipo hi-fi del sito delle scuole (carta d'identità della
    scuola). A sinistra la versione mobile, a destra la versione desktop.
    L’uso di infografiche e la narrazione visiva permettono di essere efficaci e semplici.
-
-:ref:`copia link <hp-2>`
 
 L'impostazione del progetto di design comincia dal "branding", con una barra di
 navigazione e degli header "universali", cioè coerenti nelle diverse visioni
@@ -73,8 +65,6 @@ la :numref:`Figura %s <servizi>`).
    Branding, menu di navigazione e menu dopo il login per
    mobile, nelle versioni per una scuola e per un istituto comprensivo.
 
-:ref:`copia link <branding>`
-
 .. figure:: .././media/servizi.png
    :width: 6.27083in
    :height: 2.88889in
@@ -83,8 +73,6 @@ la :numref:`Figura %s <servizi>`).
 
    Pagina di descrizione dei servizi con un indice delle sezioni
    per semplificare la navigazione, nella versione desktop e mobile.
-
-:ref:`copia link <servizi>`
 
 Esplora prototipo hi-fi del sito delle scuole:
 - `Version desktop <https://invis.io/6DL5WA43QPX#/316088094_D_-_HP_3-livello_Max_Width_1280-1x>`_
