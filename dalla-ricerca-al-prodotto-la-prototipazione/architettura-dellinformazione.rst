@@ -119,5 +119,5 @@ pubblicazione dei contenuti. In occasione di migrazione del sito verso il nuovo
 modello, sarà utile applicare questa classificazione anche ai principali
 contenuti “storici”. 
 
-`Vai alla lista dei tag da utilizzare <https://docs.google.com/spreadsheets/d/1dq-xtqBCxUDn6CqTu4uT242UiinP3O2BtGUwAbt2JfE/edit?usp=sharing >`_
+`Vai alla lista dei tag da utilizzare <https://docs.google.com/spreadsheets/d/1dq-xtqBCxUDn6CqTu4uT242UiinP3O2BtGUwAbt2JfE/edit?usp=sharing>`_
 

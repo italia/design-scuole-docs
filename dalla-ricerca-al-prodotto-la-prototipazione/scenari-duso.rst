@@ -135,7 +135,7 @@ distribuiti nel corso di un ipotetico anno scolastico fra le varie *personas*.
    +-----------------------------------+-----------------------------------+
 
 Consulta maggiori `dettagli sugli scenari
-d'uso <https://docs.google.com/spreadsheets/d/1s91eLTAsdy3F5t_3LtQNyCzIYiSf7KjyOz5awDJs3v0/edit?usp=sharing>`__.
+d'uso <https://drive.google.com/drive/folders/1-KKoXFLtQ_XTdufVn2LeMlDrAo2GFMhd?usp=sharing>`__.
 
 Consulta la `mappa degli scenari 
 <https://drive.google.com/file/d/1Wa7QbNBT3orkwp5r9AjCNK4d1Q60Iv8I/view?usp=sharing>`_.
