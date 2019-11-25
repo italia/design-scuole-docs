@@ -1,3 +1,6 @@
+Architettura dell'Informazione
+==============================
+
 Il nuovo sito per le scuole è il risultato finale di questo progetto e rappresenta la sintesi di tutti gli elementi chiave emersi dall’attività di ricerca svolta. Lo stile che lo contraddistingue è semplice e pulito, in modo da dare maggiore visibilità ai contenuti che una scuola espone. 
 
 Il menù principale è composto da solo quattro voci, che racchiudono l’intera organizzazione scolastica. 
