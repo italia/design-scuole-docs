@@ -77,7 +77,8 @@ dal bando di gara fino ai più recenti prototipi.
 
    * - Architettura dell'informazione: tutti i content type
      - Fogli di lavoro
-     - `Vai al documento (richiede un account) <https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit?usp=sharing>`_
+     - `Vai al documento 
+     <https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit?usp=sharing>`_
 
    * - Scenari d'uso del servizio
      - Fogli di lavoro
