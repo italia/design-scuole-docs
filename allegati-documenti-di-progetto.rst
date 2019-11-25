@@ -105,7 +105,6 @@ dal bando di gara fino ai più recenti prototipi.
        `Accesso Invision completo (necessario un invito) <https://projects.invisionapp.com/d/main#/projects/prototypes/14604678>`_
        
        `Usa il prototipo: vai al repository GitHub <https://github.com/italia/design-scuole-prototipi>`_      
-       
 
    * - Concept del prototipo hi-fi
      - Invision
