@@ -28,5 +28,6 @@ Design dei siti web delle scuole italiane
    principi-guida-lanalisi-dei-risultati-della-ricerca.rst
    dalla-ricerca-al-prodotto-la-prototipazione.rst
    possibile-scenario-di-evoluzione-del-prototipo-ipotesi-di-lavoro.rst
+   un-sito-per-la-scuola.rst
    allegati-documenti-di-progetto.rst
    hanno-collaborato.rst
