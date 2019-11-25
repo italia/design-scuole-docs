@@ -14,5 +14,6 @@ Il nuovo modello di sito web spinge il redattore dei contenuti a costruire i con
 
 A completamento delle quattro sezioni precedentemente descritte, il nuovo modello propone un’area personale, dove il personale scolastico può gestire e aggiornare i contenuti di propria pertinenza e usare alcuni semplici servizi on line come la ricezione di circolari che vengono notificate attraverso il sito e per email ai destinatari definiti. Attraverso link indicati chiaramente, è possibile accedere ad altre area ad accesso riservato, come il registro elettronico.
 
-[Vai all'architettura dell'informazione](https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit?usp=sharing)
-[Vai alla rappresentazione grafica dell'architettura dell'informazione](https://docs.google.com/drawings/d/1qzpCZrTc1x7IxdQ9WEw_wO0qn-mUk6mIRtSgJlmIz7g/edit)
+`Vai all'architettura dell'informazione <https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit?usp=sharing>`__. 
+
+`Vai alla rappresentazione grafica dell'architettura dell'informazione <https://docs.google.com/drawings/d/1qzpCZrTc1x7IxdQ9WEw_wO0qn-mUk6mIRtSgJlmIz7g/edit>`__. 
