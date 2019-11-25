@@ -68,16 +68,16 @@ dal bando di gara fino ai più recenti prototipi.
      - `Vai al documento <https://docs.google.com/presentation/d/1OJzrR2DeogrNP1x-EQsNXaAwkTCQVhWwJT1ds5SY2JA/edit?usp=sharing>`_
 
    * - Architettura dell'informazione: navigation tree
-     - PDF
-     - `Vai alla cartella condivisa <https://drive.google.com/drive/folders/1GshUbT_rITGTHqAImkAsFtfOrxzHZFPW>`_
+     - Google Draw
+     - `Vai alla cartella condivisa <https://docs.google.com/drawings/d/1qzpCZrTc1x7IxdQ9WEw_wO0qn-mUk6mIRtSgJlmIz7g/edit?usp=sharing>`_
 
    * - Architettura dell'informazione: lista tag per classificazione contenuti
      - Foglio di lavoro
-     - `Vai al documento <https://docs.google.com/spreadsheets/d/1dq-xtqBCxUDn6CqTu4uT242UiinP3O2BtGUwAbt2JfE/edit?usp=sharing>`_
+     - `Vai al documento <https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit#gid=2135815526>`_
 
-   * - Content type
-     - Airtable
-     - `Vai al documento (richiede un account) <https://airtable.com/tblCQfNcTpYxGepPu/viwwN3hvsqhgPj4LZ>`_
+   * - Architettura dell'informazione: tutti i content type
+     - Fogli di lavoro
+     - `Vai al documento <https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit?usp=sharing>`_
 
    * - Scenari d'uso del servizio
      - Fogli di lavoro
