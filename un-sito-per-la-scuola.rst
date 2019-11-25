@@ -1,7 +1,7 @@
 .. _un-sito-per-la-scuola:
 
 Un sito per la scuola
-=====================================================
+======================
 
 .. toctree::
    :maxdepth: 3
