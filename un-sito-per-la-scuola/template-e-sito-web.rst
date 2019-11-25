@@ -10,6 +10,7 @@ In parallelo a questa soluzione, abbiamo realizzato un sito Wordpress pronto all
 Il progetto è pubblico ed è pensato per poter evolvere grazie al contributo, ai commenti e all’utilizzo da parte delle scuole italiane.
 
 `Vai ai template HTML <https://github.com/italia/design-scuole-pagine-statiche/>`__
+
 `Vai al repository del sito in Wordpress <https://github.com/italia/design-scuole-wordpress-theme>`__
 
 
