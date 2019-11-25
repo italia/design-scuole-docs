@@ -1,3 +1,6 @@
+Template e sito web
+===================
+
 Il documento di architettura dell’informazione che abbiamo realizzato, permette, per ciascun content type, di conoscere l'elenco completo dei campi necessari, funzionali alla progettazione del back end e del front-end del sito web. 
 
 Insieme ai template html (a loro volta basati sullo UI kit di Designers Italia) permette di creare il sito web di una scuola utilizzando qualsiasi tipo di soluzione tecnologica. 
