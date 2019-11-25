@@ -69,16 +69,15 @@ dal bando di gara fino ai più recenti prototipi.
 
    * - Architettura dell'informazione: navigation tree
      - PDF
-     - `Vai alla rappresentazione grafica <https://docs.google.com/drawings/d/1qzpCZrTc1x7IxdQ9WEw_wO0qn-mUk6mIRtSgJlmIz7g/edit?usp=sharing>`_
+     - `Vai alla cartella condivisa <https://drive.google.com/drive/folders/1GshUbT_rITGTHqAImkAsFtfOrxzHZFPW>`_
 
    * - Architettura dell'informazione: lista tag per classificazione contenuti
      - Foglio di lavoro
-     - `Vai al documento <https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit#gid=2135815526>`_
+     - `Vai al documento <https://docs.google.com/spreadsheets/d/1dq-xtqBCxUDn6CqTu4uT242UiinP3O2BtGUwAbt2JfE/edit?usp=sharing>`_
 
-   * - Architettura dell'informazione: tutti i content type
-     - Fogli di lavoro
-     - `Vai al documento 
-     <https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit?usp=sharing>`_
+   * - Content type
+     - Airtable
+     - `Vai al documento (richiede un account) <https://airtable.com/tblCQfNcTpYxGepPu/viwwN3hvsqhgPj4LZ>`_
 
    * - Scenari d'uso del servizio
      - Fogli di lavoro
@@ -103,8 +102,6 @@ dal bando di gara fino ai più recenti prototipi.
      - `Anteprima <https://invis.io/NRL5W6LKJHV#/313293408_M_-_HP>`_
 
        `Accesso Invision completo (necessario un invito) <https://projects.invisionapp.com/d/main#/projects/prototypes/14604678>`_
-       
-       `Usa il prototipo: vai al repository GitHub <https://github.com/italia/design-scuole-prototipi>`_      
 
    * - Concept del prototipo hi-fi
      - Invision
