@@ -69,7 +69,7 @@ dal bando di gara fino ai più recenti prototipi.
 
    * - Architettura dell'informazione: navigation tree
      - Google Drawings
-     - `Vai alla cartella condivisa <https://docs.google.com/drawings/d/1qzpCZrTc1x7IxdQ9WEw_wO0qn-mUk6mIRtSgJlmIz7g/edit?usp=sharing>`_
+     - `Vai al grafico <https://docs.google.com/drawings/d/1qzpCZrTc1x7IxdQ9WEw_wO0qn-mUk6mIRtSgJlmIz7g/edit?usp=sharing>`_
 
    * - Architettura dell'informazione: lista tag per classificazione contenuti
      - Foglio di lavoro
