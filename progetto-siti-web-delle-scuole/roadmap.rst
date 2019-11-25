@@ -18,7 +18,12 @@ Roadmap
 -  Luglio-settembre 2018: rilascio progressivo della ricerca, del
    prototipo e della relativa documentazione disponibile su Docs Italia.
 
--  Ottobre  2018: supporto al sistema scolastico che deve definire un modello
+-  Ottobre 2018: supporto al sistema scolastico che deve definire un modello
    di sviluppo e coinvolgimento delle community di Designers Italia e
    Developers Italia. 
+   
+-  Marzo 2019: avvio realizzazione template statici e sito Wordpress. 
+   
+-  Novembre 2019: rilascio del kit per creare il sito di una scuola.
 
+[Vai al kit del progetto](https://designers.italia.it/kit/scuole/)
