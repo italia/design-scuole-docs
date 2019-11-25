@@ -1,9 +1,9 @@
-.. _prototipo-hi-fi:
+.. _progetto-grafico:
 
-Il prototipo hi-fi
+Il progetto grafico
 ==================
 
-Il prototipo hi-fi viene costruito usando lo `UI kit di Designers
+Il progetto grafico viene costruito usando lo `UI kit di Designers
 Italia <https://designers.italia.it/kit/ui-kit/>`__. 
 
 .. figure:: .././media/home-page-scuola.png
