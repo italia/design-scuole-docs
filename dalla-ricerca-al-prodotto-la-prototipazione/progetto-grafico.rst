@@ -3,7 +3,7 @@
 Il progetto grafico
 ==================
 
-Il progetto grafico viene costruito usando lo `UI kit di Designers
+Il progetto grafico è stato costruito usando lo `UI kit di Designers
 Italia <https://designers.italia.it/kit/ui-kit/>`__. 
 
 .. figure:: .././media/home-page-scuola.png
