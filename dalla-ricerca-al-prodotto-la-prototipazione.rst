@@ -1,7 +1,7 @@
 .. _dalla-ricerca-al-prodotto-la-prototipazione:
 
-Dalla ricerca al prodotto: la prototipazione
-============================================
+Dalla ricerca al prodotto: la prototipazione TEST
+=================================================
 
 Dopo aver terminato la fase di ricerca iniziale e aver identificato i
 principi guida per il design, siamo passati alla progettazione di un
@@ -10,7 +10,7 @@ modello di sito interattivo, fondata su queste linee di azioni.
 -  **Focus sulle priorità**: costruire il prodotto partendo dai bisogni
    concreti degli utenti. Questa idea ci ha indirizzato verso un metodo
    di prototipazione basato sugli scenari d'uso e che desse priorità al
-   *mobile* (approccio *mobile first*).
+   *mobile* (approccio *mobile first*)
 
 -  **Organizzazione scolastica**: tenere conto dell'organizzazione
    scolastica, e in particolare del fatto che alcune scuole sono
