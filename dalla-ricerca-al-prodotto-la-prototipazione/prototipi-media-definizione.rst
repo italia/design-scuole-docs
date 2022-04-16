@@ -1,6 +1,6 @@
-.. _prototipi-lo-fi-navigabili:
+.. _prototipi-media-definizione:
 
-Il prototipo a media definizione
+I prototipi a media definizione
 ================================
 
 I prototipi mid-fi degli scenari descritti nella sezione precedente
