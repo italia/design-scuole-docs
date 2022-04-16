@@ -1,11 +1,11 @@
 .. _architettura-dellinformazione:
 
-Architettura dell'informazione
-==============================
+Definizione dell'architettura informativa
+=========================================
 
-Il modello di architettura dell'informazione che nasce da questo
-progetto è presentato nella :numref:`Tabella %s <ai>`. I contenuti sono organizzati in 5
-sezioni più un'area personale, accessibile tramite login.
+L’architettura dell’informazione del modello di sito istituzionale per le scuole è presentata nella :numref:`Tabella %s <ai>`. I contenuti sono organizzati in 4 sezioni più un'area personale accessibile tramite login, implementata nel modello solo per docenti e personale ATA.
+
+La fase di progettazione del modello, inoltre, ha evidenziato l’utilità di un’ulteriore sezione, “La mia classe”, dove far convergere le esigenze didattiche degli alunni. La sezione non è stata implementata nel modello, ma viene messa a disposizione come prototipo a media definizione (mid-fi) come esempio di buone pratiche. La progettazione del modello, infatti, ha preso in considerazione aspetti più ampi rispetto a quelli effettivamente sviluppati, a partire, ad esempio, dagli scenari d’uso. 
 
 .. table:: Architettura dell'informazione del sito delle scuole.
    :name: ai
@@ -87,9 +87,9 @@ sezioni più un'area personale, accessibile tramite login.
    |                |                       | - Libri e materiali didattici |
    +----------------+-----------------------+-------------------------------+
    | La mia classe  | Il punto di partenza  | - Voti, note e                |
-   |                | di tutte le attività  |   pagelle                     |
-   |                | della classe.         |                               |
-   |                |                       | - Calendario/registro         |
+   | (solo come     | di tutte le attività  |   pagelle                     |
+   | esempio di     | della classe.         |                               |
+   | buone pratiche)|                       | - Calendario/registro         |
    |                |                       |   (assenze/attività)          |
    |                |                       |                               |
    |                |                       | - Rubrica                     |
@@ -98,9 +98,9 @@ sezioni più un'area personale, accessibile tramite login.
    |                |                       |   digitale                    |
    +----------------+-----------------------+-------------------------------+
    | Area personale | Centro di invio       | - Messaggi                    |
-   |                | messaggi con          |                               |
-   |                | richieste di attività | - Attività                    |
-   |                | (autorizzazioni,      |                               |
+   | (solo per      | messaggi con          |                               |
+   | personale ATA  | richieste di attività | - Attività                    |
+   | e docenti)     | (autorizzazioni,      |                               |
    |                | pagamenti, adesioni). | - Preferiti                   |
    |                | Archivio delle        |                               |
    |                | attività svolte       | - Preferenze                  |
