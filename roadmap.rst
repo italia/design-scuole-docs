@@ -28,4 +28,4 @@ Roadmap
 - Giugno-luglio 2017: codesign (workshop e interviste agli stakeholder).
 
 
-[Vai al kit del progetto](https://designers.italia.it/kit/scuole/)
+`Vai al kit del progetto <https://designers.italia.it/kit/scuole/>`_
