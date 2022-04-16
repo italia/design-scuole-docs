@@ -1,17 +1,13 @@
-Template e sito web
-===================
+Template HTML delle pagine del sito
+===================================
 
-Il documento di architettura dell’informazione che abbiamo realizzato, permette, per ciascun content type, di conoscere l'elenco completo dei campi necessari, funzionali alla progettazione del back end e del front-end del sito web. 
+Per la realizzazione del sito web della scuola, le istituzioni scolastiche e i loro fornitori hanno a disposizione anche template di pagine HTML, già sviluppati e ottimizzati seguendo le migliore pratiche e le linee guida di riferimento, come le Linee guida sull'accessibilità degli strumenti informatici. 
 
-Insieme ai template html (a loro volta basati sullo UI kit di Designers Italia) permette di creare il sito web di una scuola utilizzando qualsiasi tipo di soluzione tecnologica. 
+I template permettono di creare il sito web di una scuola utilizzando qualsiasi tipo di soluzione tecnologica. Usano ed estendono, inoltre, il design system del Paese e la libreria di componenti di sviluppo Bootstrap Italia. 
 
-In parallelo a questa soluzione, abbiamo realizzato un sito Wordpress pronto all’uso, che mettiamo a disposizione gratuitamente alla comunità scolastica, in modo da fornirle uno strumento già pronto, che va solamente installato e associato al proprio dominio, e che permette quindi di passare rapidamente alla costruzione e alla gestione dei contenuti.
+Le librerie di elementi di interfaccia presenti su Bootstrap Italia facilitano una progettazione e uno sviluppo rapido ed efficace anche di eventuali parti e pagine non coperte dal modello, mettendo a disposizione librerie di componenti da assemblare già validati per accessibilità, facilità d’uso e coerenza.
 
-Il progetto è pubblico ed è pensato per poter evolvere grazie al contributo, ai commenti e all’utilizzo da parte delle scuole italiane.
 
-`Vai ai template HTML <https://github.com/italia/design-scuole-pagine-statiche/>`__
-
-`Vai al repository del sito in Wordpress <https://github.com/italia/design-scuole-wordpress-theme>`__
-
+`Vai ai template HTML <https://github.com/italia/design-scuole-pagine-statiche/>`_
 
 
