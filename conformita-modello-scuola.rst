@@ -5,8 +5,8 @@ I criteri di conformità guidano alla corretta adozione del modello in termini d
 
 Per gli istituti scolastici che partecipano a bandi di finanziamento per l’aggiornamento del sito scolastico, il DTD verifica a campione il rispetto dei requisiti di conformità tramite controlli automatizzati, parzialmente automatizzati e manuali.
 
-``Esperienza utente``
 
+``Esperienza utente``
 
 **1. Il sito presenta tutte le voci di primo livello nell’ordine esatto descritto nell’architettura dell’informazione**
 
@@ -46,7 +46,6 @@ Per gli istituti scolastici che partecipano a bandi di finanziamento per l’agg
   - Non conforme: Anche soltanto una scheda servizio non presenta un’informazione obbligatoria o le presenta in un ordine diverso
 
 
-
 **7. Nel caso di utilizzo di un CMS Wordpress o Drupal, viene usato il relativo tema CMS nella versione più recente disponibile**
 
   - Conforme: il CMS è aggiornato all'ultima versione disponibile
@@ -54,8 +53,7 @@ Per gli istituti scolastici che partecipano a bandi di finanziamento per l’agg
 
 
 
-Sicurezza
-~~~~~~~~~
+``Sicurezza``
 
 **8. Il sito ha un certificato https valido e attivo**
 
@@ -66,8 +64,7 @@ Sicurezza
 
 
 
-Normativa
-~~~~~~~~~
+``Normativa``
 
 **9. Il sito presenta cookie tecnici**
 
@@ -89,8 +86,7 @@ Normativa
   - Non conforme: L’informativa non è presente nel footer
 
 
-Performance
-~~~~~~~~~~~
+``Performance``
 
 Solo nel caso di performance del sito (media pesata di 6 metriche standard) inferiore a 50 secondo quanto calcolato e verificato dalla piattaforma PAdigitale2026 tramite le librerie Lighthouse 
 
