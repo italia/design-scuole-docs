@@ -35,7 +35,7 @@ principi guida per il design, la progettazione del modello di sito per le scuole
 .. toctree::
    :maxdepth: 3
 
-   dalla-ricerca-al-prodotto-la-prototipazione/architettura-dellinformazione.rst
+   dalla-ricerca-al-prodotto-la-prototipazione/definizione-architettura-informativa.rst
    dalla-ricerca-al-prodotto-la-prototipazione/scenari-duso.rst
-   dalla-ricerca-al-prodotto-la-prototipazione/prototipo-media-definizione.rst
+   dalla-ricerca-al-prodotto-la-prototipazione/prototipi-media-definizione.rst
    dalla-ricerca-al-prodotto-la-prototipazione/progetto-grafico.rst
