@@ -5,8 +5,7 @@ I criteri di conformità guidano alla corretta adozione del modello in termini d
 
 Per gli istituti scolastici che partecipano a bandi di finanziamento per l’aggiornamento del sito scolastico, il DTD verifica a campione il rispetto dei requisiti di conformità tramite controlli automatizzati, parzialmente automatizzati e manuali.
 
-Esperienza utente
-~~~~~~~~~~~~~~~~~
+``Esperienza utente``
 
 
 **1. Il sito presenta tutte le voci di primo livello nell’ordine esatto descritto nell’architettura dell’informazione**
