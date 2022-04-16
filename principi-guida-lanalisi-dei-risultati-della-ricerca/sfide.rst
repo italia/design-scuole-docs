@@ -3,8 +3,7 @@
 Sfide
 =====
 
-Le principali sfide che si presentano per la creazione di un nuovo
-modello di sito delle scuole riguardano:
+Le principali sfide che sono emerse per la creazione del modello di sito delle scuole hanno riguardato:
 
 1. la semplificazione dei servizi esistenti;
 
@@ -15,8 +14,8 @@ modello di sito delle scuole riguardano:
 
 .. _semplificare:
 
-Semplificare
-------------
+Semplificare l'esperienza utente
+--------------------------------
 
 Migliore organizzazione dei contenuti ed esperienza utente, linguaggio
 meno burocratico, e fruizione da mobile: sono questi i principali punti
@@ -36,8 +35,8 @@ nella :ref:`fase 1 <possibile-scenario-di-evoluzione-del-prototipo-ipotesi-di-la
 
 .. _integrare:
 
-Integrare
----------
+Integrare servizi
+-----------------
 
 In questi anni sono stati sviluppati servizi di grande interesse e
 utilità:
@@ -48,14 +47,11 @@ utilità:
 
 -  gestione degli ingressi e delle uscite.
 
-Bisogna creare un centro messaggi nell’area personale che permetta al cittadino
-e al personale scolastico di gestire in modo integrato informazioni personali e
-servizi, anche provenienti da applicativi diversi.
 
 .. _sviluppare:
 
-Sviluppare
-----------
+Sviluppare nuovi servizi
+------------------------
 
 Avviare lo sviluppo di nuovi servizi, partendo (come identificato dalla
 ricerca quantitativa) da un miglioramento dei processi di iscrizione,
@@ -63,8 +59,8 @@ autorizzazione e pagamento di servizi scolastici (laboratori, gite e
 altro); dalla prenotazione dei colloqui fino alla gestione online di
 progetti e attività didattiche che integrano la didattica.
 
-La ricerca evidenzia come una progressiva digitalizzazione dei servizi sia
+La ricerca utente ha evidenziato come una progressiva digitalizzazione dei servizi sia
 un'aspettativa condivisa, a partire dal personale scolastico che vorrebbe
 gestire in modo digitale tutti i processi che prevedono iscrizione e pagamento
 da parte delle famiglie. Questo è possibile solo avviando un processo di
-miglioramento continuo del sito della scuola.
+miglioramento continuo del sito della scuola, tenendo anche in considerazione l’impatto della pandemia di Covid 19 nella fruizione delle risorse digitali dei singoli istituti.
