@@ -1,12 +1,13 @@
 .. _un-sito-per-la-scuola:
 
-Un sito per la scuola
+Le risorse
 ======================
 
 .. toctree::
    :maxdepth: 1
 
-   un-sito-per-la-scuola/architettura-dell-informazione.rst
-   un-sito-per-la-scuola/template-e-sito-web.rst
-   un-sito-per-la-scuola/i-test-di-usabilita.rst
+   risorse/architettura-dell-informazione.rst
+   risorse/template-html-pagine.rst
+   risorse/tema-wordpress.rst
+   risorse/conformita-modello-scuola.rst
    
