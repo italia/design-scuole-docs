@@ -13,4 +13,3 @@ Per approfondire: `principi guida per il modello di siti delle scuole <https://d
    principi-guida-lanalisi-dei-risultati-della-ricerca/personas.rst
    principi-guida-lanalisi-dei-risultati-della-ricerca/sintesi-dei-principi-guida.rst
    principi-guida-lanalisi-dei-risultati-della-ricerca/sfide.rst
-   principi-guida-lanalisi-dei-risultati-della-ricerca/gestione-del-digitale.rst
