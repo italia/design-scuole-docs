@@ -9,5 +9,3 @@ Le librerie di elementi di interfaccia presenti su Bootstrap Italia facilitano u
 
 
 `Vai ai template HTML <https://github.com/italia/design-scuole-pagine-statiche/>`_
-
-
