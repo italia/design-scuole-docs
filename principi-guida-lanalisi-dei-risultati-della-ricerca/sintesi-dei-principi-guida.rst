@@ -143,14 +143,4 @@ pagelle), al calendario/registro della classe (assenze/presenze), fino ai
 servizi e ai progetti attivati. Questo richiede capacità di integrazione di
 applicativi diversi e di uniformazione dei pattern di user interface.
 
-La sezione comunemente chiamata "registro elettronico" dovrebbe
-riflettere l'identità visiva della scuola, essere *responsive* e facile da
-navigare. Dovrebbe rispondere a una gamma di bisogni della classe un po'
-più ampia di quella attuale, per esempio prevedendo una rubrica della
-classe, i link al materiale didattico e ai syllabus ufficiali della
-classe.
-
-E dovrebbe essere gestita da famiglie e insegnanti attraverso un'area personale
-(un centro notifiche) che comprenda anche tutti gli altri contenuti e servizi
-che la scuola eroga (creazione di un centro messaggi e di un’area personale
-unica).
+La progettazione del modello scuole ha fornito, nel corso degli anni, numerosi esempi di buone pratiche prese poi a suggerimento per vari servizi e integrazioni. Ad esempio, la sezione “La mia classe”, prototipata in mid fi ma non presente nel modello di sito istituzionale, è stata utilizzata per il miglioramento dei registri elettronici forniti alle scuole da diversi fornitori.
