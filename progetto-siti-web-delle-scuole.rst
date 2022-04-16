@@ -3,46 +3,10 @@
 Che cos'è il progetto siti web delle scuole
 ===========================================
 
-`Il progetto siti web delle scuole <https://designers.italia.it/progetti/siti-scuole/>`_ 
-vuole definire un **modello standard
-di sito web** che esprima l'insieme dei servizi digitali offerti dalle
-scuole italiane a genitori, studenti e all'intera comunità scolastica.
+Il Dipartimento per la trasformazione digitale ha messo a punto, in collaborazione con il Ministero dell’istruzione, un modello standard di sito web istituzionale per le scuole italiane, con l’obiettivo di  offrire a genitori, studenti e all’intera comunità scolastica un punto di accesso semplice e funzionale alle esigenze degli utenti. Il modello è realizzato sulla base dei principi di progettazione *user centred* e realizzato grazie alle risorse che compongono il *design system* del Paese, messo a disposizione tramite il progetto Designers Italia.
 
-Questo modello sarà messo **a disposizione gratuitamente** sulla piattaforma di
-`Designers Italia <http://designers.italia.it/>`__. Tutti gli istituti
-scolastici e, più in generale, le comunità open source, le istituzioni e le
-software house che realizzano soluzioni per la scuola, potranno usarlo per
-sviluppare la propria offerta digitale secondo standard definiti partendo dai
-bisogni della comunità scolastica, e quindi efficaci e inclusivi.
+Tutti gli istituti scolastici e, più in generale, le comunità di progettazione e sviluppo open source, le istituzioni e le i fornitori che realizzano soluzioni per la scuola, possono usare il modello per sviluppare la propria offerta digitale secondo i migliori standard a partire dai bisogni della comunità scolastica, rendendola così efficace e inclusiva.
 
-Il progetto si basa sulla metodologia, gli strumenti e il *design system* di
-Designers Italia. A sua volta, contribuisce ad alimentare il *design system*
-della Pubblica Amministrazione mettendo a disposizione di tutte le
-amministrazioni componenti e pattern elaborati per questo progetto. Inoltre, il
-progetto ha contribuito - in termini metodologici e di know how - alla
-realizzazione di un progetto simile e altrettanto importante, dedicato ai siti
-web dei comuni italiani.
+Il modello, messo gratuitamente a disposizione degli istituti scolastici e dei loro fornitori, consente di ridurre i costi e i tempi di sviluppo dell’offerta digitale da parte delle scuole, permettendo a ciascun istituto scolastico di concentrare le risorse sulle attività a valore aggiunto, in particolare i contenuti e la didattica.
 
-Il progetto è gestito dal Team per la Trasformazione Digitale su
-richiesta del Ministero dell'istruzione, dell'università e della ricerca
-(Miur), nell'ambito di un `percorso di attivazione degli
-ecosistemi <https://pianotriennale-ict.readthedocs.io/it/latest/doc/06_ecosistemi.html>`__
-previsto dal Piano triennale per l'informatica nella pubblica
-amministrazione, in coerenza con gli obiettivi strategici e le linee di
-azione dell'ecosistema scuola.
-
-La ricerca e lo sviluppo sono stati realizzati grazie al contributo delle
-società LCD design e BSD design, vincitrici del bando di gara.
-
-`Consulta il Capitolato di gara per il
-progetto <https://docs.google.com/document/d/13GmEfCG7R-mFN71iiHaVxGvpiy4FhRlgRoNJFeL-HMs/edit>`__.
-
-`Consulta l'offerta di LCD e
-BSD <https://drive.google.com/open?id=1nnhJGd_qD-A97Varw9gMiVN20AKs2ymW>`__,
-vincitrice della gara.
-
-.. toctree::
-   :maxdepth: 3
-
-   progetto-siti-web-delle-scuole/obiettivi.rst
-   progetto-siti-web-delle-scuole/roadmap.rst
+La progettazione del modello è nata nell’ambito di un `percorso di attivazione degli ecosistemi <https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2017-2019/doc/06_ecosistemi.html>`_ previsto dal Piano triennale per l’informatica nella Pubblica Amministrazione, in coerenza con gli obiettivi strategici e le linee di azione dell’ecosistema scuola. Nel corso degli ultimi mesi, il modello ha visto una serie di aggiornamenti in particolare riguardo all’accessibilità dei componenti del design system. Il Ministero per l’Istruzione ha inoltre promosso una nuova fase di ricerca con gli utenti, i cui risultati rientreranno nella roadmap di aggiornamenti futuri prevista dal Dipartimento per la trasformazione digitale.
