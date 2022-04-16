@@ -23,4 +23,5 @@ Design dei siti web delle scuole italiane
    principi-guida-lanalisi-dei-risultati-della-ricerca.rst
    dalla-ricerca-al-prodotto-la-prototipazione.rst
    roadmap.rst
+   allegati-tecnici.rst
    crediti.rst
