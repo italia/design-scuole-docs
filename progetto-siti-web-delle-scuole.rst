@@ -1,7 +1,7 @@
 .. _che-cosè-il-progetto-siti-web-delle-scuole:
 
-Che cos'è il progetto siti web delle scuole
-===========================================
+Che cos'è il modello di sito istituzionale delle scuole
+=======================================================
 
 Il Dipartimento per la trasformazione digitale ha messo a punto, in collaborazione con il Ministero dell’istruzione, un modello standard di sito web istituzionale per le scuole italiane, con l’obiettivo di  offrire a genitori, studenti e all’intera comunità scolastica un punto di accesso semplice e funzionale alle esigenze degli utenti. Il modello è realizzato sulla base dei principi di progettazione *user centred* e realizzato grazie alle risorse che compongono il *design system* del Paese, messo a disposizione tramite il progetto Designers Italia.
 
