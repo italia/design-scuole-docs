@@ -11,3 +11,4 @@ Tutte le risorse, pronte all'uso, per aderire al modello di sito istituzionale s
    risorse/architettura-dell-informazione.rst
    risorse/template-html-pagine.rst
    risorse/tema-wordpress.rst
+   risorse/guida-migrazione-contenuti.rst
