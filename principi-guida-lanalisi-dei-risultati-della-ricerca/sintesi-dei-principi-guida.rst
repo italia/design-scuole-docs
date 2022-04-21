@@ -132,9 +132,9 @@ esistenti, mostrare i risultati delle attività svolte dagli studenti e dai
 docenti) ed eventualmente di effettuare pagamenti attraverso la piattaforma
 pagoPA.
 
-.. _in-classe:
+.. _la-mia-classe:
 
-In classe
+La mia classe
 ---------
 
 Il sito della scuola dovrebbe essere il punto di riferimento per tutto ciò che
