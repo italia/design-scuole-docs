@@ -5,9 +5,6 @@ Ricerca quantitativa
 
 Il Ministero per l’Istruzione ha condotto, a partire da marzo 2022, una nuova attività di ricerca quantitativa sull’utilizzo dei siti web scolastici, grazie alla somministrazione di un questionario dedicato a personale scolastico, genitori e studenti di 51 scuole italiane, rappresentative dell’intero territorio nazionale, per un totale di 3.656 questionari restituiti.
 
-Consulta i risultati dell’attività di ricerca condotta a marzo 2022. (**inserire link**)
-
-
 La ricerca iniziale, alla base della progettazione del modello di sito per le scuole, è stata condotta nel 2018 con una metodologia basata sulle interviste a campione online (sistema CAWI), per un totale di 2.001 interviste, suddivise fra studenti, genitori e operatori della scuola.
 
 La ricerca ha coinvolto gli utenti dei portali scolastici, all'interno
