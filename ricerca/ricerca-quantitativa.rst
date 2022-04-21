@@ -14,7 +14,7 @@ positivo sull'uso del digitale, in cui, tuttavia, è possibile
 identificare aree di ulteriore miglioramento.
 
 Consulta nel dettaglio i `risultati della ricerca
-quantitativa <https://docs.google.com/presentation/d/1VLF0QwVGFba7XQppWjdjh2cxDAq0_19XnTurXegilDA/edit?usp=sharing>`__
+quantitativa iniziale (2018) <https://docs.google.com/presentation/d/1VLF0QwVGFba7XQppWjdjh2cxDAq0_19XnTurXegilDA/edit?usp=sharing>`__
 
 
 .. admonition:: deepening
