@@ -106,8 +106,7 @@ Per migliorare ulteriormente l'esperienza degli utenti e garantire l'uso di tecn
 
 In conformità con la `Stategia Cloud Italia <https://cloud.italia.it/strategia-cloud-pa/>`_
 
-L'uso di infrastrutture cloud consente un'erogazione più sicura, efficiente e scalabile del sito comunale. L'adozione di queste tecnologie può essere finanziato attraverso categoria "servizi informativi e open data" all'interno della misura 1.2 Abilitazione e facilitazione migrazione al Cloud.
+L'uso di infrastrutture cloud consente un'erogazione più sicura, efficiente e scalabile del sito scolastico. L'adozione di queste tecnologie può essere finanziato attraverso categoria "servizi informativi e open data" all'interno della misura 1.2 Abilitazione e facilitazione migrazione al Cloud.
 
 
-**6. Il sito della scuola presenta livelli di performance (media pesata di 6 metriche standard) pari o superiori a 50 secondo quanto calcolato tramite le librerie Lighthouse**
-https://web.dev/performance-scoring/ 
+**6. Il sito della scuola presenta livelli di performance (media pesata di 6 metriche standard) pari o superiori a 50 secondo quanto calcolato tramite le** `librerie Lighthouse <https://web.dev/performance-scoring/>`_.
