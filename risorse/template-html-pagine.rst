@@ -11,7 +11,7 @@ Le librerie di elementi di interfaccia presenti su Bootstrap Italia facilitano u
 `Vai ai template HTML <https://github.com/italia/design-scuole-pagine-statiche/>`_
 
 .. attention::
-  I template HTML utilizzano la versione 1.6.3 di Bootstrap Italia. Si consiglia di non aggiornare il sito a librerie uguali o successive alla 2.0 senza adeguare il relativo codice markup.
+  I template HTML utilizzano la versione 1.6.2 di Bootstrap Italia. Si consiglia di non aggiornare il sito a librerie uguali o successive alla 2.0 senza adeguare il relativo codice markup.
   
   
 Le font del modello
