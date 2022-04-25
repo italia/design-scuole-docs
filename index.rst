@@ -1,5 +1,5 @@
 =========================================
-Design dei siti web delle scuole italiane
+Il sito web delle scuole italiane
 =========================================
 
 
@@ -12,7 +12,8 @@ Design dei siti web delle scuole italiane
 
 .. toctree::
    :maxdepth: 3
-   :numbered: 
+   :numbered:
+   :caption: Indice dei contenuti
 
    modello-sito-istituzionale-scuole.rst
    risorse.rst
