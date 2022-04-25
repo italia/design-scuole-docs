@@ -6,7 +6,7 @@ Risorse
 Tutte le risorse, pronte all'uso, per aderire al modello di sito istituzionale scolastico in modo rapido e basso costo.
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
    :caption: Indice dei contenuti
 
    risorse/architettura-dell-informazione.rst
