@@ -7,6 +7,7 @@ Scopri tutta la documentazione, dai bandi ai capitolati tecnici, e i collaborato
 
 .. toctree::
    :maxdepth: 1
+   :caption: Indice dei contenuti
 
    crediti/allegati-documenti-di-progetto.rst
    crediti/hanno-collaborato.rst
