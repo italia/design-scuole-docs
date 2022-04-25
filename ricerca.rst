@@ -7,6 +7,7 @@ L’iniziale fase di ricerca, condotta a partire da febbraio 2018, ha preso in c
 
 .. toctree::
    :maxdepth: 1
+   :caption: Indice dei contenuti
 
    ricerca/desk-research.rst
    ricerca/benchmarking.rst
