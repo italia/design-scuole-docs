@@ -80,7 +80,7 @@ Raccomandazioni
 
 Per migliorare ulteriormente l'esperienza degli utenti e garantire l'uso di tecnologie aggiornate, restano valide altre indicazioni di legge e buone pratiche.
 
-**1. Il sito utilizza** `i vocabolari forniti nel modello di sito per le scuole <`nell’architettura dell’informazione <../risorse/architettura-dell-informazione.html#vocabolari-e-tassonomie>`_
+**1. Il sito utilizza** `i vocabolari forniti nel modello di sito per le scuole nell’architettura dell’informazione <../risorse/architettura-dell-informazione.html#vocabolari-e-tassonomie>`_
 
 
 **2. Le schede informative di servizio presentano gli attributi segnalati** `nell’architettura dell’informazione <../risorse/architettura-dell-informazione.html>`_, **nell'ordine segnalato dal modello**
