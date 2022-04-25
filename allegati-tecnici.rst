@@ -8,7 +8,7 @@ La tabella seguente raccoglie tutti i documenti tecnici relativi al progetto e l
 .. attention::
     I prototipi a media definizione (mid-fi) e ad alta definizione (hi-fi) sono in fase di aggiornamento. Vanno considerati solo come esempi da consultare ma non come risorse operative.
 
-.. list-table:: I documenti di progetto.
+.. list-table:: Gli allegati tecnici.
    :widths: 15 10 30
    :header-rows: 1
 
