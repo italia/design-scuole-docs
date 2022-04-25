@@ -18,3 +18,22 @@ A completamento di queste quattro sezioni, il nuovo modello propone un’area ri
 `Vai all'architettura dell'informazione <https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit?usp=sharing>`__
 
 `Vai alla rappresentazione grafica dell'architettura dell'informazione <https://docs.google.com/drawings/d/1qzpCZrTc1x7IxdQ9WEw_wO0qn-mUk6mIRtSgJlmIz7g/edit>`__
+
+
+Vocabolari e tassonomie
+------------------------
+
+Le tassonomie sono classificazioni gerarchiche di concetti, ovvero delle liste di nomenclature (vocabolari) con cui si possono categorizzare i contenuti del sito. L’uso di tassonomie fornisce contesto ai contenuti e facilita la ricerca di contenuti correlati.
+
+Il documento di architettura presenta i seguenti vocabolari:
+
+- Tipologie delle strutture;
+- Tipi di istituto;
+- Luoghi;
+- Documenti;
+- Ruoli delle persone;
+- Percorsi e indirizzi di studio;
+- Tipi di progetti;
+- Le parole della scuola (argomenti tematici).
+
+
