@@ -9,6 +9,7 @@ Per approfondire: `principi guida per il modello di siti delle scuole <https://d
 
 .. toctree::
    :maxdepth: 3
+   :caption: Indice dei contenuti
 
    principi-guida-lanalisi-dei-risultati-della-ricerca/personas.rst
    principi-guida-lanalisi-dei-risultati-della-ricerca/sintesi-dei-principi-guida.rst
