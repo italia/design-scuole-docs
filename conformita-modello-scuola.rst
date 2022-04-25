@@ -8,7 +8,7 @@ Per gli istituti scolastici che partecipano a bandi di finanziamento per l’agg
 
 ``Esperienza utente``
 
-**1. Il sito utilizza le font indicate nella documentazione del modello di sito scolastico**
+**1. Il sito utilizza** `le font <../risorse/le-font-del-modello.html>`_ **indicate nella documentazione del modello di sito scolastico**
 
   - Conforme: Il sito usa esclusivamente le font indicate nel modello
   - Parzialmente conforme: il sito usa le font indicate nel modello, insieme ad altre
