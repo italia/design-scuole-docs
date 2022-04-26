@@ -67,18 +67,6 @@ dal bando di gara fino ai più recenti prototipi.
      - Google Slides
      - `Vai al documento <https://docs.google.com/presentation/d/1OJzrR2DeogrNP1x-EQsNXaAwkTCQVhWwJT1ds5SY2JA/edit?usp=sharing>`_
 
-   * - Architettura dell'informazione: navigation tree
-     - Google Drawings
-     - `Vai al grafico <https://docs.google.com/drawings/d/1qzpCZrTc1x7IxdQ9WEw_wO0qn-mUk6mIRtSgJlmIz7g/edit?usp=sharing>`_
-
-   * - Architettura dell'informazione: lista tag per classificazione contenuti
-     - Foglio di lavoro
-     - `Vai al documento <https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit#gid=2135815526>`_
-
-   * - Architettura dell'informazione: tutti i content type
-     - Fogli di lavoro
-     - `Vai al documento <https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit?usp=sharing>`_
-
    * - Scenari d'uso del servizio
      - Fogli di lavoro
      - `Vai alla cartella condivisa <https://drive.google.com/drive/folders/1-KKoXFLtQ_XTdufVn2LeMlDrAo2GFMhd?usp=sharing>`_
@@ -86,28 +74,6 @@ dal bando di gara fino ai più recenti prototipi.
    * - Mappa degli scenari
      - Pdf
      - `Vai al documento <https://drive.google.com/file/d/1Wa7QbNBT3orkwp5r9AjCNK4d1Q60Iv8I/view?usp=sharing>`_
-
-   * - Prototipi media definizione
-     - Sketch
-     - `Scenari desktop <https://invis.io/KPL5VAUR2DV>`_
-
-       `Scenari mobile <https://invis.io/2BN05NVHDXK>`_
-
-       `Scenario completo mobile <https://invis.io/SNL5W31PKAD#/316836055_Indice>`_
-
-       `Area personale completa desktop <https://invis.io/9ML61BP8QRU#/313266484_AP_NEW_Indice_D>`_
-
-   * - Prototipi hi-fi dettagliati
-     - Sketch 
-     - `Anteprima <https://invis.io/NRL5W6LKJHV#/313293408_M_-_HP>`_
-
-       `Accesso Invision completo (necessario un invito) <https://projects.invisionapp.com/d/main#/projects/prototypes/14604678>`_
-
-   * - Concept del prototipo hi-fi
-     - Invision
-     - `Desktop <https://invis.io/6DL5WA43QPX#/316088094_D_-_HP_3-livello_Max_Width_1280-1x>`_
-
-       `Mobile <https://invis.io/6DL5WA43QPX#/316088097_M_-_HP-1x>`_
 
    * - Report della valutazione del concept
      - Google Docs

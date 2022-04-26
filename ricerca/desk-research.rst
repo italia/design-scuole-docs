@@ -5,7 +5,7 @@ Desk research
 
 L'attività di *desk research* (ricerca a tavolino) usa informazioni
 esistenti per una valutazione preliminare del progetto. Le principali
-conclusioni di questa fase sono le seguenti:
+conclusioni di questa fase sono state le seguenti:
 
 1. Circa il 70% delle oltre 300.000 aule (in 33.000 edifici scolastici)
    sono connesse a Internet, ma la qualità della connessione è
@@ -39,7 +39,7 @@ conclusioni di questa fase sono le seguenti:
       Molte delle procedure della scuola sono basate su carta, dalla
       compilazione dei moduli all’affissione di informazioni in bacheca.                                                       
                                                                          
-   -  **Scuola in chiaro** è un modello ibrido: in parte tentativo di    
+   -  **Scuola in chiaro**, l'`indice delle scuole italiane <https://cercalatuascuola.istruzione.it/cercalatuascuola/>`_, è un modello ibrido: in parte tentativo di    
       sostituzione dei siti scolastici, in parte tentativo di favorire   
       il confronto tra scuole (funzioni da comparatore). È quindi        
       necessario mettere a fuoco la sua funzione ed evitare la           
@@ -58,5 +58,5 @@ conclusioni di questa fase sono le seguenti:
       migliorare l'integrazione con i siti scolastici e rispettare le    
       linee guida di design.                                             
                                                                          
-   -  **Io studio** è un prodotto da ripensare in relazione con SPID.    
+   -  **Io studio** è un prodotto da ripensare in relazione con SPID. Una considerazione che è stata ben presente durante le fasi di aggiornamento del modello.   
 

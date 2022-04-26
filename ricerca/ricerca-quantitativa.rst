@@ -3,9 +3,9 @@
 Ricerca quantitativa
 ====================
 
-La ricerca è stata condotta con una metodologia basata sulle interviste
-a campione online (sistema CAWI), per un totale di 2.001 interviste,
-suddivise fra studenti, genitori e operatori della scuola.
+Il Ministero per l’Istruzione ha condotto, a partire da marzo 2022, una nuova attività di ricerca quantitativa sull’utilizzo dei siti web scolastici, grazie alla somministrazione di un questionario dedicato a personale scolastico, genitori e studenti di 51 scuole italiane, rappresentative dell’intero territorio nazionale, per un totale di 3.656 questionari restituiti.
+
+La ricerca iniziale, alla base della progettazione del modello di sito per le scuole, è stata condotta nel 2018 con una metodologia basata sulle interviste a campione online (sistema CAWI), per un totale di 2.001 interviste, suddivise fra studenti, genitori e operatori della scuola.
 
 La ricerca ha coinvolto gli utenti dei portali scolastici, all'interno
 delle scuole primarie e secondarie di primo e secondo grado presenti sul
@@ -14,7 +14,7 @@ positivo sull'uso del digitale, in cui, tuttavia, è possibile
 identificare aree di ulteriore miglioramento.
 
 Consulta nel dettaglio i `risultati della ricerca
-quantitativa <https://docs.google.com/presentation/d/1VLF0QwVGFba7XQppWjdjh2cxDAq0_19XnTurXegilDA/edit?usp=sharing>`__
+quantitativa iniziale (2018) <https://docs.google.com/presentation/d/1VLF0QwVGFba7XQppWjdjh2cxDAq0_19XnTurXegilDA/edit?usp=sharing>`__
 
 
 .. admonition:: deepening
