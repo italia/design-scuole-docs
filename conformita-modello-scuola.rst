@@ -8,7 +8,7 @@ Per gli istituti scolastici che partecipano a bandi di finanziamento per l’agg
 
 ``Esperienza utente``
 
-**1. Il sito utilizza** `le font </risorse/template-html-pagine.html#le-font-del-modello>`_ **indicate nella documentazione del modello di sito scolastico**
+**1. Il sito utilizza** `le font <risorse/template-html-pagine.html#le-font-del-modello>`_ **indicate nella documentazione del modello di sito scolastico**
 
   - Conforme: Il sito usa esclusivamente le font indicate nel modello
   - Parzialmente conforme: il sito usa le font indicate nel modello, insieme ad altre
@@ -21,19 +21,19 @@ Per gli istituti scolastici che partecipano a bandi di finanziamento per l’agg
   - Parzialmente conforme: La libreria Bootstrap Italia è collegata nell'head del sito ma il valore della variabile js/css <BOOTSTRAP_ITALIA_VERSION> è inferiore al valore <1.6.0>
   - Non conforme: La libreria Bootstrap Italia non è collegata nell'head del sito
   
-**3. Nel caso in cui la scuola utilizzi Wordpress come content management system, viene usato** `il tema messo a disposizione </risorse/tema-wordpress.html>`_ **nella versione più recente disponibile alla data di inizio lavori**
+**3. Nel caso in cui la scuola utilizzi Wordpress come content management system, viene usato** `il tema messo a disposizione <risorse/tema-wordpress.html>`_ **nella versione più recente disponibile alla data di inizio lavori**
 
   - Conforme: il CMS è aggiornato all'ultima versione disponibile
   - Non conforme: il CMS non è aggiornato
 
 
-**4. Il sito presenta tutte le voci di primo livello nell’ordine esatto descritto** `nell’architettura dell’informazione </risorse/architettura-dell-informazione.html>`_
+**4. Il sito presenta tutte le voci di primo livello nell’ordine esatto descritto** `nell’architettura dell’informazione <risorse/architettura-dell-informazione.html>`_
 
   - Conforme: Sono presenti tutte le voci di primo livello, nell’ordine corretto
   - Non conforme: Non tutte le voci sono presenti o lo sono in un ordine diverso
   
 
-**5. Il sito presenta almeno il 30% delle voci di menu di secondo livello in base a quanto descritto** `nell’architettura dell’informazione </risorse/architettura-dell-informazione.html>`_
+**5. Il sito presenta almeno il 30% delle voci di menu di secondo livello in base a quanto descritto** `nell’architettura dell’informazione <risorse/architettura-dell-informazione.html>`_
 
   - Conforme: Sono presenti almeno il 30% delle voci di secondo livello
   - Non conforme: Sono presenti meno del 30% delle voci di secondo livello o il secondo livello è assente
@@ -80,10 +80,10 @@ Raccomandazioni
 
 Per migliorare ulteriormente l'esperienza degli utenti e garantire l'uso di tecnologie aggiornate, restano valide altre indicazioni di legge e buone pratiche.
 
-**1. Il sito utilizza** `i vocabolari forniti nel modello di sito per le scuole nell’architettura dell’informazione </risorse/architettura-dell-informazione.html#vocabolari-e-tassonomie>`_
+**1. Il sito utilizza** `i vocabolari forniti nel modello di sito per le scuole nell’architettura dell’informazione <risorse/architettura-dell-informazione.html#vocabolari-e-tassonomie>`_
 
 
-**2. Le schede informative di servizio presentano gli attributi segnalati** `nell’architettura dell’informazione </risorse/architettura-dell-informazione.html>`_, **nell'ordine segnalato dal modello**
+**2. Le schede informative di servizio presentano gli attributi segnalati** `nell’architettura dell’informazione <risorse/architettura-dell-informazione.html>`_, **nell'ordine segnalato dal modello**
 
   - Conforme: Tutte le schede informative di servizio presentano gli attributi segnalati e nell'ordine corretto
   - Non conforme: Anche soltanto una scheda servizio non presenta gli attributi segnalati o li presenta in un ordine diverso
