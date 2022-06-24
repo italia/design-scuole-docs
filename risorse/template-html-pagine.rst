@@ -7,7 +7,9 @@ I template HTML permettono di creare il sito web di una scuola utilizzando quals
 
 Le librerie di elementi di interfaccia presenti su Bootstrap Italia facilitano una progettazione e uno sviluppo rapido ed efficace anche di eventuali parti e pagine non coperte dal modello, mettendo a disposizione librerie di componenti da assemblare già validati per accessibilità, facilità d’uso e coerenza.
 
-`Vai ai template HTML <https://github.com/italia/design-scuole-pagine-statiche/>`_
+`Vai ai sorgenti dei template HTML <https://github.com/italia/design-scuole-pagine-statiche/>`_
+
+`Vai alle anteprime dei template HTML <https://design-scuole-pagine-statiche.vercel.app/>`_
   
   
 I font del modello
