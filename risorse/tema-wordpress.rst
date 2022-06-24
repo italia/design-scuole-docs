@@ -7,4 +7,4 @@ Il tema WordPress risponde pienamente ai requisiti di accessibilità (livello AA
 
 `Vai al repo GitHub del tema Wordpress <https://github.com/italia/design-scuole-wordpress-theme>`_
 
-`Guida all'installazione all'uso del tema WordPress <https://docs.italia.it/italia/designers-italia/design-scuole-wordpress-theme-docs/it/>`_
+`Guida all'installazione e all'uso del tema WordPress <https://docs.italia.it/italia/designers-italia/design-scuole-wordpress-theme-docs/it/>`_
