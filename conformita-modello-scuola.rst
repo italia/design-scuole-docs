@@ -21,7 +21,7 @@ Per gli istituti scolastici che partecipano a bandi di finanziamento per l’agg
   Casi di non conformità:
   
   - la libreria Bootstrap Italia non è collegata nell'head del sito;
-  - la libreria Bootstrap Italia utilizzata è una versione precedente alla 1.6.3.
+  - la libreria Bootstrap Italia utilizzata è una versione precedente alla 1.6.
 
   
 **3. Nel caso in cui il sito utilizzi un CMS, viene usato** `il tema messo a disposizione <risorse/tema-wordpress.html>`_ **nella versione più recente disponibile alla data di inizio lavori**
