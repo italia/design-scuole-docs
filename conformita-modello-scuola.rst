@@ -8,7 +8,7 @@ Per gli istituti scolastici che partecipano a bandi di finanziamento per l’agg
 
 ``Esperienza utente``
 
-**1. Il sito utilizza** `i font <risorse/template-html-pagine.html#le-font-del-modello>`_ **indicati nella documentazione del modello di sito scolastico**
+**1. Il sito utilizza** `i font <risorse/template-html-pagine.html#i-font-del-modello>`_ **indicati nella documentazione del modello di sito scolastico**
 
   Casi di non conformità:
   
