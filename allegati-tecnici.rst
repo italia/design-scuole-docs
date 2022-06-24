@@ -30,11 +30,11 @@ La tabella seguente raccoglie tutti i documenti tecnici relativi al progetto e l
      - `Vai al documento <https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit?usp=sharing>`_
    
    * - Template HTML (anteprime)
-     - Anteprime HTML dei template
+     - Pagine HTML
      - `Vai alle anteprime dei template <https://design-scuole-pagine-statiche.vercel.app/>`_
    
-   * - Template HTML (codice)
-     - Repo GitHub con file codice HTML
+   * - Template HTML (sorgenti)
+     - Repo GitHub con codice sorgente
      - `Vai ai template <https://github.com/italia/design-scuole-pagine-statiche>`_
      
    * - Tema WordPress "Design Scuole Italia"
