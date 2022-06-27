@@ -28,6 +28,18 @@ La tabella seguente raccoglie tutti i documenti tecnici relativi al progetto e l
    * - Architettura dell'informazione: tutti i content type
      - Fogli di lavoro
      - `Vai al documento <https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit?usp=sharing>`_
+   
+   * - Template HTML (anteprime)
+     - Pagine HTML
+     - `Vai alle anteprime dei template <https://italia.github.io/design-scuole-pagine-statiche/>`_
+   
+   * - Template HTML (sorgenti)
+     - Repo GitHub con codice sorgente
+     - `Vai ai template <https://github.com/italia/design-scuole-pagine-statiche>`_
+     
+   * - Tema WordPress "Design Scuole Italia"
+     - Repo GitHub
+     - `Vai al tema WordPress <https://github.com/italia/design-scuole-wordpress-theme>`_
 
    * - Prototipi media definizione (**in aggiornamento**)
      - Sketch
