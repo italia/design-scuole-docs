@@ -31,7 +31,7 @@ La tabella seguente raccoglie tutti i documenti tecnici relativi al progetto e l
    
    * - Template HTML (anteprime)
      - Pagine HTML
-     - `Vai alle anteprime dei template <https://design-scuole-pagine-statiche.vercel.app/>`_
+     - `Vai alle anteprime dei template <https://italia.github.io/design-scuole-pagine-statiche/>`_
    
    * - Template HTML (sorgenti)
      - Repo GitHub con codice sorgente
