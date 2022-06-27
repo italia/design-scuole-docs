@@ -9,7 +9,7 @@ Le librerie di elementi di interfaccia presenti su Bootstrap Italia facilitano u
 
 `Vai ai sorgenti dei template HTML <https://github.com/italia/design-scuole-pagine-statiche/>`_
 
-`Vai alle anteprime dei template HTML <https://design-scuole-pagine-statiche.vercel.app/>`_
+`Vai alle anteprime dei template HTML <https://italia.github.io/design-scuole-pagine-statiche/>`_
   
   
 I font del modello
