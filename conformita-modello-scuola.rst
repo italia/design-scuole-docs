@@ -112,7 +112,7 @@ Per migliorare ulteriormente l'esperienza degli utenti e garantire l'uso di tecn
 
   Da evitare:
   
-  - anche solo una scheda servizio non presenta più di una delle informazioni obbligatorie;
+  - anche solo una scheda servizio non presenta più di due delle informazioni obbligatorie;
   - anche solo una scheda servizio presenta le informazioni obbligatorie in un ordine diverso.
 
 
@@ -123,7 +123,7 @@ Per migliorare ulteriormente l'esperienza degli utenti e garantire l'uso di tecn
 
   Da evitare:
   
-  - i repository con i file sorgente del sito del Comune non sono inseriti sul catalogo del riuso.
+  - i repository con i file sorgente del sito della scuola non sono inseriti sul catalogo del riuso.
 
   
   
