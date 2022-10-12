@@ -3,7 +3,7 @@ Conformità al modello di sito scolastico
 
 I criteri di conformità guidano alla corretta adozione del modello in termini di esperienza utente, sicurezza, performance e rispetto della normativa. 
 
-Per gli istituti scolastici che partecipano agli avvisi di finanziamento di `PA digitale 2026 <https://padigitale2026.gov.it/>`_ per l’aggiornamento del sito scolastico, il DTD verifica a campione il rispetto dei requisiti di conformità tramite controlli automatizzati, parzialmente automatizzati e manuali. In questo caso, è necessario tener conto dei `requisiti tecnici necessari allo svolgimento delle verifiche <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/it/versione-attuale>`_.
+Per gli istituti scolastici che partecipano agli avvisi di finanziamento di `PA digitale 2026 <https://padigitale2026.gov.it/>`_ per l’aggiornamento del sito scolastico, il DTD verifica il rispetto dei requisiti di conformità tramite controlli automatizzati, parzialmente automatizzati e manuali. Pertanto, è necessario tener conto dei `requisiti tecnici necessari allo svolgimento delle verifiche <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/it/versione-attuale>`_.
 
 
 
@@ -21,7 +21,7 @@ Riferimenti normativi e tecnici: `sezione La tipografia <https://docs.italia.it/
    :header-rows: 0
 
    * - **Successo**
-     - tutti i titoli (heading) e tutti i paragrafi delle pagine del sito in lingua italiana devono usare esclusivamente i font Titillium Web, Lora e Roboto Mono **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
+     - Tutti i titoli (heading) e tutti i paragrafi delle pagine del sito in lingua italiana devono usare esclusivamente i font Titillium Web, Lora e Roboto Mono **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
      
    * - **Tolleranza**
      - Tutti i titoli (heading) e tutti i paragrafi delle pagine del sito in lingua italiana devono includere Titillium Web o Lora tra i font utilizzati **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
@@ -120,7 +120,7 @@ Riferimenti normativi e tecnici: le voci del menù sono indicate nel `Grafico de
         - Per la sezione *Scuola*, sono: “Presentazione”, “I luoghi”, “Le persone”, “I numeri della scuola”, “Le carte della scuola”, “Organizzazione”, “La storia”;
         - Per la sezione *Servizi*, sono: “Famiglie e studenti”, “Personale scolastico”, “Percorsi di studio”;
         - Per la sezione *Novità*, sono: “Le notizie”, “Le circolari”, “Calendario eventi”, “Albo online”;
-        - Per la sezione *Didattica, sono: “Offerta formativa”, “Le schede didattiche”, "I progetti delle classi";
+        - Per la sezione *Didattica*, sono: “Offerta formativa”, “Le schede didattiche”, "I progetti delle classi";
        **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
      
    * - **Tolleranza**
@@ -250,8 +250,7 @@ Da evitare:
 
 - anche solo una scheda servizio non presenta più di due delle informazioni obbligatorie
 - anche solo una scheda servizio presenta le informazioni obbligatorie in un ordine diverso
-- il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_
- per questo criterio.
+- il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
  
  
 **R.SC.2.1 - Riuso**
@@ -276,8 +275,8 @@ Da evitare:
 
 - la scuola non segue le linee guida AGID sulla pubblicazione di dati, documenti o informazioni;
 - all’interno della pagina delle “note legali” non è presente una sezione “Licenza dei contenuti” che riporta la dicitura raccomandata:
-“In applicazione del principio open by default ai sensi dell’articolo 52 del decreto legislativo 7 marzo 2005, n. 82 (CAD) e salvo dove diversamente specificato (compresi i contenuti incorporati di terzi), i dati, i documenti e le informazioni pubblicati sul sito sono rilasciati con licenza CC-BY 4.0.
-Gli utenti sono quindi liberi di condividere (riprodurre, distribuire, comunicare al pubblico, esporre in pubblico), rappresentare, eseguire e recitare questo materiale con qualsiasi mezzo e formato e modificare (trasformare il materiale e utilizzarlo per opere derivate) per qualsiasi fine, anche commerciale con il solo onere di attribuzione, senza apporre restrizioni aggiuntive.”
+   
+   “In applicazione del principio open by default ai sensi dell’articolo 52 del decreto legislativo 7 marzo 2005, n. 82 (CAD) e salvo dove diversamente specificato (compresi i contenuti incorporati di terzi), i dati, i documenti e le informazioni pubblicati sul sito sono rilasciati con licenza CC-BY 4.0. Gli utenti sono quindi liberi di condividere (riprodurre, distribuire, comunicare al pubblico, esporre in pubblico), rappresentare, eseguire e recitare questo materiale con qualsiasi mezzo e formato e modificare (trasformare il materiale e utilizzarlo per opere derivate) per qualsiasi fine, anche commerciale con il solo onere di attribuzione, senza apporre restrizioni aggiuntive.”
 
   
 **R.SC.2.3 - Infrastrutture cloud**
