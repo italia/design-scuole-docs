@@ -65,13 +65,13 @@ Riferimenti normativi e tecnici: i temi CMS sono raggiungibili tramite `Designer
    :header-rows: 0
 
    * - **Successo**
-     - Il sito utilizza un tema CMS del modello scuole **e** ne utilizza la versione più recente disponibile alla data di inizio lavori **e** ne utilizza una versione uguale o superiore alla v1.1
+     - Il sito utilizza un tema CMS del modello scuole **e** ne utilizza la versione più recente disponibile alla data di inizio lavori **e** ne utilizza una versione uguale o superiore alla v2.0
      
    * - **Tolleranza**
      - Il sito non utilizza un tema CMS del modello scuole
      
    * - **Fallimento**
-     - Il sito utilizza un tema CMS del modello scuole ma non ne utilizza la versione più recente disponibile alla data di inizio lavori o ne utilizza una versione precedente alla v1.1
+     - Il sito utilizza un tema CMS del modello scuole ma non ne utilizza la versione più recente disponibile alla data di inizio lavori o ne utilizza una versione precedente alla v2.0
      
      
 
