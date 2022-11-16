@@ -11,6 +11,6 @@ Per approfondire: `principi guida per il modello di siti delle scuole <https://d
    :maxdepth: 3
    :caption: Indice dei contenuti
 
-   principi-guida-lanalisi-dei-risultati-della-ricerca/personas.rst
-   principi-guida-lanalisi-dei-risultati-della-ricerca/sintesi-dei-principi-guida.rst
-   principi-guida-lanalisi-dei-risultati-della-ricerca/sfide.rst
+   ricerca/personas.rst
+   ricerca/sintesi-dei-principi-guida.rst
+   ricerca/sfide.rst
