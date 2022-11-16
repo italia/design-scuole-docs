@@ -17,8 +17,8 @@ Il sito web delle scuole italiane
 
    modello-sito-istituzionale-scuole.rst
    risorse.rst
-   conformita-modello-scuola.rst
-   ricerca.rst
-   roadmap.rst
    allegati-tecnici.rst
+   conformita-modello-scuola.rst
+   roadmap.rst
+   ricerca.rst
    crediti.rst
