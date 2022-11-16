@@ -13,5 +13,11 @@ L’iniziale fase di ricerca, condotta a partire da febbraio 2018, ha preso in c
    ricerca/benchmarking.rst
    ricerca/ricerca-qualitativa.rst
    ricerca/ricerca-quantitativa.rst
-   ricerca/principi-guida-lanalisi-dei-risultati-della-ricerca.rst
+   ricerca/personas.rst
+   ricerca/sintesi-dei-principi-guida.rst
+   ricerca/sfide.rst
    ricerca/dalla-ricerca-al-prodotto-la-prototipazione.rst
+   ricerca/definizione-architettura-informativa.rst
+   ricerca/scenari-duso.rst
+   ricerca/prototipi-media-definizione.rst
+   ricerca/progetto-grafico.rst
