@@ -36,7 +36,7 @@ principi guida per il design, la progettazione del modello di sito per le scuole
    :maxdepth: 3
    :caption: Indice dei contenuti
 
-   ricerca/dalla-ricerca-al-prodotto-la-prototipazione/definizione-architettura-informativa.rst
-   ricerca/dalla-ricerca-al-prodotto-la-prototipazione/scenari-duso.rst
-   ricerca/dalla-ricerca-al-prodotto-la-prototipazione/prototipi-media-definizione.rst
-   ricerca/dalla-ricerca-al-prodotto-la-prototipazione/progetto-grafico.rst
+   ricerca/definizione-architettura-informativa.rst
+   ricerca/scenari-duso.rst
+   ricerca/prototipi-media-definizione.rst
+   ricerca/progetto-grafico.rst
