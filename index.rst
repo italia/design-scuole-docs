@@ -19,8 +19,6 @@ Il sito web delle scuole italiane
    risorse.rst
    conformita-modello-scuola.rst
    ricerca.rst
-   principi-guida-lanalisi-dei-risultati-della-ricerca.rst
-   dalla-ricerca-al-prodotto-la-prototipazione.rst
    roadmap.rst
    allegati-tecnici.rst
    crediti.rst
