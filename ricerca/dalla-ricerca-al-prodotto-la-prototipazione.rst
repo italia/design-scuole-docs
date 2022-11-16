@@ -30,13 +30,3 @@ principi guida per il design, la progettazione del modello di sito per le scuole
    la riorganizzazione della componente pubblica e informativa dei siti;
    una seconda fase è funzionale a costruire l'area personale, il centro
    messaggi e a integrare servizi e applicativi esterni.
-
-
-.. toctree::
-   :maxdepth: 3
-   :caption: Indice dei contenuti
-
-   dalla-ricerca-al-prodotto-la-prototipazione/definizione-architettura-informativa.rst
-   dalla-ricerca-al-prodotto-la-prototipazione/scenari-duso.rst
-   dalla-ricerca-al-prodotto-la-prototipazione/prototipi-media-definizione.rst
-   dalla-ricerca-al-prodotto-la-prototipazione/progetto-grafico.rst
