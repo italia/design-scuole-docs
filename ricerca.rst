@@ -13,3 +13,5 @@ L’iniziale fase di ricerca, condotta a partire da febbraio 2018, ha preso in c
    ricerca/benchmarking.rst
    ricerca/ricerca-qualitativa.rst
    ricerca/ricerca-quantitativa.rst
+   ricerca/principi-guida-lanalisi-dei-risultati-della-ricerca.rst
+   ricerca/dalla-ricerca-al-prodotto-la-prototipazione.rst
