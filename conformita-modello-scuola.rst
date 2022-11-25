@@ -75,7 +75,7 @@ Riferimenti normativi e tecnici: i temi CMS sono raggiungibili tramite `Designer
      
      
 
-**CC.SC.1.4 - Voci di menù di primo livello**
+**C.SC.1.4 - Voci di menù di primo livello**
 
 Il sito presenta tutte le voci di menù di primo livello, nell'esatto ordine descritto nella documentazione del modello scuole.
 
