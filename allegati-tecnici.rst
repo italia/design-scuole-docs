@@ -25,7 +25,7 @@ La tabella seguente raccoglie tutti i documenti tecnici relativi al progetto e l
      - Foglio di lavoro
      - `Vai al documento <https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit#gid=2135815526>`_
 
-   * - Architettura dell'informazione: tutti i content type
+   * - Architettura dell'informazione: tutti i content type 
      - Fogli di lavoro
      - `Vai al documento <https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit?usp=sharing>`_
    
