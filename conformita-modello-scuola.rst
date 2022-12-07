@@ -56,7 +56,7 @@ Riferimenti normativi e tecnici: `Bootstrap Italia <https://italia.github.io/boo
 
 **C.SC.1.3 - Utilizzo di temi per CMS (Content Management System)**
 
-Nel caso in cui il sito utilizzi `tema messo a disposizione <risorse/tema-wordpress.html>`_ nella documentazione del modello di sito scolastico, lo utilizza nella versione più recente disponibile alla data di inizio lavori.
+Nel caso in cui il sito utilizzi `tema messo a disposizione <risorse/tema-wordpress.html>`_ nella documentazione del modello di sito scolastico, lo utilizza nella versione 2.0 o successive.
 
 Riferimenti normativi e tecnici: i temi CMS sono raggiungibili tramite `Designers Italia <https://designers.italia.it/modello/comuni/>`_; `Documentazione del modello scuole <https://docs.italia.it/italia/designers-italia/design-scuole-docs/it/>`_.
 
@@ -65,13 +65,13 @@ Riferimenti normativi e tecnici: i temi CMS sono raggiungibili tramite `Designer
    :header-rows: 0
 
    * - **Successo**
-     - Il sito utilizza un tema CMS del modello scuole **e** ne utilizza la versione più recente disponibile alla data di inizio lavori **e** ne utilizza una versione uguale o superiore alla v2.0
+     - Il sito utilizza un tema CMS del modello scuole **e** ne utilizza una versione superiore alla v2.0
      
    * - **Tolleranza**
      - Il sito non utilizza un tema CMS del modello scuole
      
    * - **Fallimento**
-     - Il sito utilizza un tema CMS del modello scuole ma non ne utilizza la versione più recente disponibile alla data di inizio lavori o ne utilizza una versione precedente alla v2.0
+     - Il sito utilizza un tema CMS del modello scuole ma ne utilizza una versione precedente alla v2.0
      
      
 
@@ -105,7 +105,7 @@ Riferimenti normativi e tecnici: le voci del menù sono indicate nel `Grafico de
 
 **C.SC.1.5 - Voci di menu di secondo livello**
 
-Il sito presenta almeno il 30% delle voci di menu di secondo livello in base a quanto descritto dalla documentazione del modello di sito per le scuole.
+Il sito presenta le voci di menù di secondo livello come descritto nella documentazione del modello di sito della scuola.
 
 Riferimenti normativi e tecnici: le voci del menù sono indicate nel `Grafico dell’alberatura <https://docs.google.com/drawings/d/1yEFOj3S7vciOoehm9Sa51ahvzsEXpqHCiPria-K7o_k/edit>`_ all’interno del `documento di Architettura dell’informazione del modello scuole <https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit#gid=782511705>`_; `Documentazione del modello scuole <https://docs.italia.it/italia/designers-italia/design-scuole-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
 
@@ -144,19 +144,19 @@ Riferimenti tecnici e normativi: `Normativa GDPR (Artt. 13 e 14, Reg. UE n. 679/
    :header-rows: 0
 
    * - **Successo**
-     - Il link all’informativa sul trattamento dei dati personali è presente nel footer del sito **e** invia a una informativa sul trattamento dei dati personali valida secondo il regolamento GDPR **e** la pagina di destinazione è sicura (ovvero presenta un certificato https valido e attivo) **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Il link all’informativa sul trattamento dei dati personali è presente nel footer del sito e invia a una informativa sul trattamento dei dati personali **e** la pagina di destinazione è sicura (ovvero presenta un certificato https valido e attivo) **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
      
    * - **Tolleranza**
-     - Il link all’informativa sul trattamento dei dati personali è presente nel footer del sito **e** invia a una informativa sul trattamento dei dati personali valida secondo il regolamento GDPR **e** la pagina di destinazione non è sicura (ovvero non presenta un certificato https valido e attivo) **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Il link all’informativa sul trattamento dei dati personali è presente nel footer del sito e invia a una informativa sul trattamento dei dati personali **e** la pagina di destinazione non è sicura (ovvero non presenta un certificato https valido e attivo) **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
    * - **Fallimento**
-     - Il link all’informativa sul trattamento dei dati personali non è presente nel footer del sito **o** invia a una informativa sul trattamento dei dati personali non valida secondo il regolamento GDPR **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Il link all’informativa sul trattamento dei dati personali non è presente nel footer del sito **o** non invia a una informativa sul trattamento dei dati personali **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
 
 
 **C.SC.2.2 - Dichiarazione di accessibilità** 
 
-Il sito espone la dichiarazione di accessibilità in conformità al modello e alle linee guida rese disponibili da AgID in ottemperanza alla normativa vigente in materia di accessibilità e con livelli di accessibilità contemplati nelle specifiche tecniche WCAG 2.1.
+Il sito espone la dichiarazione di accessibilità in conformità al modello e alle linee guida rese disponibili da AGID in ottemperanza alla normativa vigente in materia di accessibilità e con livelli di accessibilità contemplati nelle specifiche tecniche WCAG 2.1.
 
 Riferimenti tecnici e normativi: `Linee guida AGID per la dichiarazione di accessibilità <https://www.agid.gov.it/it/design-servizi/accessibilita/dichiarazione-accessibilita>`_, le `Linee guida AgID sull’accessibilità degli strumenti informatici <https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/stabile/index.html>`_, la `Legge 9 gennaio 2004 n. 4 <https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2004-01-17&atto.codiceRedazionale=004G0015&atto.articolo.numero=0&atto.articolo.sottoArticolo=1&atto.articolo.sottoArticolo1=10&qId=cb6b9a05-f5c3-40ac-81b8-f89e73e5b4c7&tabID=0.029511124589268523&title=lbl.dettaglioAtto>`_, le `Web Content Accessibility Guidelines (WCAG 2.1) <https://www.w3.org/Translations/WCAG21-it/#background-on-wcag-2>`_ e la `Direttiva Reg. UE n. 2102/2016 <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32016L2102>`_; `Documentazione del modello scuole <https://docs.italia.it/italia/designers-italia/design-scuole-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
 
@@ -165,13 +165,13 @@ Riferimenti tecnici e normativi: `Linee guida AGID per la dichiarazione di acces
    :header-rows: 0
 
    * - **Successo**
-     - Il link alla dichiarazione di accessibilità è presente nel footer del sito **e** invia a una dichiarazione di accessibilità valida secondo le norme AgID **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Il link alla dichiarazione di accessibilità è presente nel footer del sito **e** invia a una dichiarazione di accessibilità secondo le norme AGID **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
      
    * - **Tolleranza**
      - /
 
    * - **Fallimento**
-     - Il link alla dichiarazione di accessibilità non è presente nel footer del sito **o** il link invia a una dichiarazione di accessibilità non valida secondo le norme AgID **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Il link alla dichiarazione di accessibilità non è presente nel footer del sito **o** non invia a una dichiarazione di accessibilità secondo le norme AGID **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
 
 **C.SC.2.3 - Cookie**
@@ -185,13 +185,13 @@ Riferimenti tecnici e normativi: `Linee guida cookie e altri strumenti di tracci
    :header-rows: 0
 
    * - **Successo**
-     - Il sito presenta solo cookie che rispettano le linee guida del Garante per la protezione dei dati personali **e** il dominio di tutti i cookie presenti nel sito è corrispondente al dominio del sito web della scuola.
+     - Il dominio di tutti i cookie presenti nel sito è corrispondente al dominio del sito web della scuola.
      
    * - **Tolleranza**
      - /
 
    * - **Fallimento**
-     - Il sito presenta cookie che non rispettano le linee guida del Garante per la protezione dei dati personali **o** il dominio di anche solo un cookie presente nel sito non è corrispondente al dominio del sito web della scuola.
+     - Il dominio di anche solo un cookie presente nel sito non è corrispondente al dominio del sito web della scuola.
 
 
 
