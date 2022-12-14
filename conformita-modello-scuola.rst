@@ -3,7 +3,7 @@ Conformità al modello di sito scolastico
 
 I criteri di conformità guidano alla corretta adozione del modello in termini di esperienza utente, sicurezza, performance e rispetto della normativa. 
 
-Per gli istituti scolastici che partecipano agli avvisi di finanziamento di `PA digitale 2026 <https://padigitale2026.gov.it/>`_ per l’aggiornamento del sito scolastico, il DTD verifica il rispetto dei requisiti di conformità tramite controlli automatizzati, parzialmente automatizzati e manuali. Pertanto, è necessario tener conto dei `requisiti tecnici necessari allo svolgimento delle verifiche <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/it/versione-attuale>`_.
+Per gli istituti scolastici che partecipano agli avvisi di finanziamento di `PA digitale 2026 <https://padigitale2026.gov.it/>`_ per l’aggiornamento del sito scolastico, il DTD verifica il rispetto di tutti i criteri di conformità tramite controlli automatizzati, parzialmente automatizzati e manuali. Pertanto, è necessario tener conto dei `requisiti tecnici necessari allo svolgimento delle verifiche <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
 
 
 
