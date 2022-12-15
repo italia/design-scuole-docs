@@ -10,11 +10,4 @@ Le librerie di elementi di interfaccia presenti su Bootstrap Italia facilitano u
 `Vai ai sorgenti dei template HTML <https://github.com/italia/design-scuole-pagine-statiche/>`_
 
 `Vai alle anteprime dei template HTML <https://italia.github.io/design-scuole-pagine-statiche/>`_
-  
-  
-I font del modello
---------------------
-
-I template HTML del sito istituzionale per le scuole utilizzano i `font dello UI Kit di Designers Italia <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/user-interface/il-disegno-di-un-interfaccia-e-lo-ui-kit.html#la-tipografia>`_, ovvero Titillium Web, Roboto Mono e il Lora. 
-
-Tutti questi typeface sono rilasciati con licenza SIL Open Font License e sono scaricabili gratuitamente da `Google Fonts <https://fonts.google.com/>`_.
+ 
