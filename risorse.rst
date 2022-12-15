@@ -12,6 +12,7 @@ Usa lo `strumento checklist <https://docs.google.com/document/d/1MbU5jbYIfgwGEF3
    :caption: Indice dei contenuti
 
    risorse/architettura-dell-informazione.rst
+   risorse/i-font-del-modello.rst
    risorse/template-html-pagine.rst
    risorse/tema-wordpress.rst
    risorse/guida-migrazione-contenuti.rst
