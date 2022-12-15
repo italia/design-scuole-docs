@@ -40,6 +40,10 @@ La tabella seguente raccoglie tutti i documenti tecnici relativi al progetto e l
    * - Tema WordPress "Design Scuole Italia"
      - Repo GitHub
      - `Vai al tema WordPress <https://github.com/italia/design-scuole-wordpress-theme>`_
+   
+   * - Strumento checklist delle attività per l'adozione al modello
+     - Google Doc
+     - `Vai allo strumento <https://docs.google.com/document/d/1MbU5jbYIfgwGEF3v_rHlspOyTnh75JsX9Nwzw-SCR1I/edit?usp=sharing>`_
 
    * - Prototipi media definizione (**in aggiornamento**)
      - Sketch
