@@ -74,20 +74,7 @@ la :numref:`Figura %s <servizi>`).
    Pagina di descrizione dei servizi con un indice delle sezioni
    per semplificare la navigazione, nella versione desktop e mobile.
 
-Esplora prototipo hi-fi del sito delle scuole:
-- `Version desktop <https://invis.io/6DL5WA43QPX#/316088094_D_-_HP_3-livello_Max_Width_1280-1x>`_
-
-- `Version mobile <https://invis.io/6DL5WA43QPX#/316088097_M_-_HP-1x>`_
 
 
-Per i designer: consulta i prototipi hi-fi dettagliati.
-- `Anteprima <https://invis.io/NRL5W6LKJHV#/313293408_M_-_HP>`_
-
-- `Accesso agli asset su Invision per lo sviluppo (necessario un invito) <https://projects.invisionapp.com/d/main#/projects/prototypes/14604678>`_
-
-
-I prototipi sono stati sottoposti a un processo di valutazione esperta da parte
-di designer e personale scolastico. I `risultati della valutazione sono
-disponibili qui <https://docs.google.com/document/d/18EFUs2YiOMS58iDGonJ131lM4foqIGVVs51NdVKj__0/edit?usp=sharing>`_,
-e hanno permesso di aggiornare e migliorare i prototipi.
+I prototipi sono stati sottoposti a un processo di valutazione esperta da parte di designer e personale scolastico. I `risultati della valutazione sono disponibili qui <https://docs.google.com/document/d/18EFUs2YiOMS58iDGonJ131lM4foqIGVVs51NdVKj__0/edit?usp=sharing>`_ e hanno permesso di aggiornare e migliorare i prototipi.
 
