@@ -9,7 +9,7 @@ La sezione Amministrazione trasparente può essere una sottosezione del sito ste
 Contenuti e duplicazione
 -------------------------
 
-Alcuni dei contenuti obbligatori dell’Amministrazione trasparente saranno già disponibili nel sito del comune. La struttura del sito e delle pagine del modello Comuni, infatti, sono state progettate per presentare le informazioni richieste della normativa, usando un’organizzazione più semplice e comprensibile per gli utenti. Questo non esonera dall’obbligo di predisporre una sezione Amministrazione Trasparente, ma permette agli enti di evitare la duplicazione di contenuti già presenti altrove, usando collegamenti ipertestuali. 
+Alcuni dei contenuti obbligatori dell’Amministrazione trasparente saranno già disponibili nel sito della scuola. La struttura del sito e delle pagine del modello scuole, infatti, sono state progettate per presentare le informazioni richieste della normativa, usando un’organizzazione più semplice e comprensibile per gli utenti. Questo non esonera dall’obbligo di predisporre una sezione Amministrazione Trasparente, ma permette agli enti di evitare la duplicazione di contenuti già presenti altrove, usando collegamenti ipertestuali. 
 
 Non c’è obbligo di riportare anche sul sito i contenuti specifici dell’Amministrazione Trasparente che non rientrano nelle sezioni definite dall’architettura. Questi possono essere ospitati direttamente nella struttura dell'Amministrazione Trasparente.
 
