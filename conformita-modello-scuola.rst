@@ -14,20 +14,20 @@ Per gli istituti scolastici che partecipano agli avvisi di finanziamento di `PA 
 
 Il sito utilizza `i font <risorse/template-html-pagine.html#i-font-del-modello>`_ indicati nel modello di sito per le scuole.
 
-Riferimenti normativi e tecnici: `sezione La tipografia <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/user-interface/il-disegno-di-un-interfaccia-e-lo-ui-kit.html#la-tipografia>`_ all’interno delle `Linee guida di design per i servizi web della Pubblica Amministrazione <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/index.html>`_; `Documentazione del modello scuole <https://docs.italia.it/italia/designers-italia/design-scuole-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
+Riferimenti normativi e tecnici: `sezione La tipografia <https://docs.italia.it/italia/designers-italia/manuale-operativo-design-docs/it/versione-corrente/doc/esperienza-utente/progettare-e-costruire-in-alta-fedelta.html#la-tipografia>`_ all’interno del `Manuale operativo di design <https://docs.italia.it/italia/designers-italia/manuale-operativo-design-docs/it/>`_; `Documentazione del modello scuole <https://docs.italia.it/italia/designers-italia/design-scuole-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
 
 .. list-table::
    :widths: 10 30
    :header-rows: 0
 
    * - **Successo**
-     - Tutti i titoli (heading) e tutti i paragrafi delle pagine del sito in lingua italiana devono usare esclusivamente i font Titillium Web, Lora e Roboto Mono **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
+     - Tutti i titoli (heading) e tutti i paragrafi delle pagine del sito in lingua italiana utilizzano esclusivamente i font Titillium Web, Lora o Roboto Mono come font di default **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
      
    * - **Tolleranza**
-     - Tutti i titoli (heading) e tutti i paragrafi delle pagine del sito in lingua italiana devono includere Titillium Web o Lora tra i font utilizzati **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
+     - Tutti i titoli (heading) e tutti i paragrafi delle pagine del sito in lingua italiana utilizzano Titillium Web, Lora o Roboto Mono come font di default ma sono presenti degli elementi all’interno dei titoli o dei paragrafi che usano altri font di default **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
      
    * - **Fallimento**
-     - Anche solo un titolo (heading) o un paragrafo in qualsiasi pagina del sito in lingua italiana non include Titillium Web o Lora tra i font utilizzati **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
+     - Anche solo un titolo (heading) o un paragrafo in qualsiasi pagina del sito in lingua italiana non utilizza Titillium Web, Lora o Roboto Mono come font di default **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
 
 
   
@@ -44,13 +44,13 @@ Riferimenti normativi e tecnici: `Bootstrap Italia <https://italia.github.io/boo
    :header-rows: 0
 
    * - **Successo**
-     - Il sito utilizza la libreria Bootstrap Italia in una versione uguale o superiore alla 1.6.0 **e** la libreria Bootstrap Italia è collegata nell’head del sito
+     - In tutte le pagine del sito viene utilizzata la libreria Bootstrap Italia **e** la libreria Bootstrap Italia è presente nel tag <head> delle pagine del sito **e** la versione in uso è uguale o superiore alla 1.6 **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
      
    * - **Tolleranza**
      - /
      
    * - **Fallimento**
-     - Il sito non utilizza la libreria Bootstrap Italia **o** la libreria Bootstrap Italia non è collegata nell’head del sito **o** la versione utilizzata è precedente alla 1.6.0
+     - In anche solo una delle pagine del sito non viene utilizzata la libreria Bootstrap Italia **o** la libreria Bootstrap Italia non è presente nel tag <head> delle pagine del sito **o** la versione in uso è precedente alla 1.6 **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
 
  
 
@@ -65,13 +65,13 @@ Riferimenti normativi e tecnici: i temi CMS sono raggiungibili tramite `Designer
    :header-rows: 0
 
    * - **Successo**
-     - Il sito utilizza un tema CMS del modello scuole **e** ne utilizza una versione uguale o superiore alla v2.0
+     - Il sito utilizza un tema CMS del modello scuole **e** ne utilizza una versione uguale o superiore alla 2.0
      
    * - **Tolleranza**
      - Il sito non utilizza un tema CMS del modello scuole
      
    * - **Fallimento**
-     - Il sito utilizza un tema CMS del modello scuole ma ne utilizza una versione precedente alla v2.0
+     - Il sito utilizza un tema CMS del modello scuole ma ne utilizza una versione precedente alla 2.0
      
      
 
@@ -144,13 +144,12 @@ Riferimenti tecnici e normativi: `Normativa GDPR (Artt. 13 e 14, Reg. UE n. 679/
    :header-rows: 0
 
    * - **Successo**
-     - Il link all’informativa sul trattamento dei dati personali è presente nel footer del sito e invia a una informativa sul trattamento dei dati personali **e** la pagina di destinazione è sicura (ovvero presenta un certificato https valido e attivo) **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Il link all’informativa sul trattamento dei dati personali è presente nel footer del sito **e** invia all'informativa sul trattamento dei dati personali **e** la pagina di destinazione è sicura (ovvero presenta un certificato https valido e attivo) **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
      
    * - **Tolleranza**
-     - Il link all’informativa sul trattamento dei dati personali è presente nel footer del sito e invia a una informativa sul trattamento dei dati personali **e** la pagina di destinazione non è sicura (ovvero non presenta un certificato https valido e attivo) **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
-
+     - /
    * - **Fallimento**
-     - Il link all’informativa sul trattamento dei dati personali non è presente nel footer del sito **o** non invia a una informativa sul trattamento dei dati personali **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Il link all’informativa sul trattamento dei dati personali non è presente nel footer del sito **o** non invia all'informativa sul trattamento dei dati personali **o** la pagina di destinazione non è sicura (ovvero non presenta un certificato https valido e attivo) **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
 
 
@@ -165,13 +164,13 @@ Riferimenti tecnici e normativi: `Linee guida AGID per la dichiarazione di acces
    :header-rows: 0
 
    * - **Successo**
-     - Il link alla dichiarazione di accessibilità è presente nel footer del sito **e** invia a una dichiarazione di accessibilità secondo le norme AGID **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Il link alla dichiarazione di accessibilità è presente nel footer del sito **e** invia a una dichiarazione di accessibilità secondo le norme AGID **e** la dichiarazione è conforme, anche parzialmente, alle specifiche tecniche WCAG 2.1 **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
      
    * - **Tolleranza**
      - /
 
    * - **Fallimento**
-     - Il link alla dichiarazione di accessibilità non è presente nel footer del sito **o** non invia a una dichiarazione di accessibilità secondo le norme AGID **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Il link alla dichiarazione di accessibilità non è presente nel footer del sito **o** non invia a una dichiarazione di accessibilità secondo le norme AGID **o** la dichiarazione non è conforme alle specifiche tecniche WCAG 2.1 **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
 
 **C.SC.2.3 - Cookie**
@@ -185,13 +184,13 @@ Riferimenti tecnici e normativi: `Linee guida cookie e altri strumenti di tracci
    :header-rows: 0
 
    * - **Successo**
-     - Il dominio di tutti i cookie presenti nel sito è corrispondente al dominio del sito web della scuola.
+     - Il dominio di tutti i cookie già presenti nel sito, ovvero senza che sia stata espressa una preferenza da parte dell’utente riguardo il loro uso, è corrispondente al dominio del sito web della scuola **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
      
    * - **Tolleranza**
      - /
 
    * - **Fallimento**
-     - Il dominio di anche solo un cookie presente nel sito non è corrispondente al dominio del sito web della scuola.
+     - Il dominio di anche solo un cookie già presente nel sito, ovvero senza che sia stata espressa una preferenza da parte dell’utente riguardo il suo uso, non è corrispondente al dominio del sito web della scuola **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
 
 
@@ -236,6 +235,7 @@ Riferimenti normativi e tecnici: il vocabolario controllato del modello è dispo
 Da evitare:
 
 - più del 50% degli argomenti non appartengono alle `voci del modello scuole <https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit#gid=2135815526>`_;
+- l’elenco completo degli argomenti utilizzati non è presente nella pagina dei risultati di ricerca;
 - il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
 
@@ -248,8 +248,10 @@ Riferimenti normativi e tecnici: sezione `CT: Servizio <https://docs.google.com/
 
 Da evitare:
 
-- anche solo una scheda servizio non presenta più di due delle informazioni obbligatorie
-- anche solo una scheda servizio presenta le informazioni obbligatorie in un ordine diverso
+- anche solo in una scheda servizio più di 2 delle voci richieste e i relativi contenuti non sono presenti: “Tipologia” (contenuto breadcrumb), “Titolo”, “Argomenti”, “Descrizione breve”, “A cosa serve”, “Come si accede al servizio”, “Luogo” (deve presentare “indirizzo”, “posizione GPS tramite mappa”, “orario per il pubblico”, “email”, “PEC”, “telefono”), “Tempi e scadenze”, “Contatti”, “Struttura responsabile”, “Metadati”;
+
+- anche solo in una scheda servizio più di 1 delle voci utilizzate tra le seguenti non è nell’ordine corretto: “Cos’è“, “Come si accede al servizio”, “Cosa serve”, “Tempi e scadenze”, “Contatti”, “Ulteriori informazioni”;
+
 - il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
  
  
@@ -273,10 +275,13 @@ Riferimenti normativi e tecnici: `CAD - Art. 52 d.lgs. 82/2005 <https://docs.ita
 
 Da evitare:
 
-- la scuola non segue le linee guida AGID sulla pubblicazione di dati, documenti o informazioni;
+- la scuola non pubblica dati, documenti o informazioni con licenza aperta CC-BY 4.0;
+- la licenza non viene comunicata nella pagina delle “note legali“ raggiungibile da un link nel footer del sito;
 - all’interno della pagina delle “note legali” non è presente una sezione “Licenza dei contenuti” che riporta la dicitura raccomandata:
    
    “In applicazione del principio open by default ai sensi dell’articolo 52 del decreto legislativo 7 marzo 2005, n. 82 (CAD) e salvo dove diversamente specificato (compresi i contenuti incorporati di terzi), i dati, i documenti e le informazioni pubblicati sul sito sono rilasciati con licenza CC-BY 4.0. Gli utenti sono quindi liberi di condividere (riprodurre, distribuire, comunicare al pubblico, esporre in pubblico), rappresentare, eseguire e recitare questo materiale con qualsiasi mezzo e formato e modificare (trasformare il materiale e utilizzarlo per opere derivate) per qualsiasi fine, anche commerciale con il solo onere di attribuzione, senza apporre restrizioni aggiuntive.”
+
+- il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
 
   
 **R.SC.2.3 - Infrastrutture cloud**
@@ -294,4 +299,4 @@ Riferimenti normativi e tecnici: `LIGHTHOUSE performance scoring guide <https://
 
 Da evitare:
 
-- il sito presenta livelli di prestazione (media pesata di 6 metriche standard) inferiori a 50 secondo quanto calcolato tramite le `librerie Lighthouse <https://web.dev/performance-scoring/>`_.
+- il sito presenta livelli di prestazione (media pesata di 6 metriche standard) inferiori a 50 quando testato in modalità “mobile” tramite le `librerie Lighthouse <https://web.dev/performance-scoring/>`_.
