@@ -14,110 +14,65 @@ I prototipi realizzati finora sono elencati nella :numref:`Tabella %s <prototipi
 e sono disponibili a questi indirizzi:
 
 -  `lato
-   desktop <https://projects.invisionapp.com/share/KPL5VAUR2DV#/screens>`__;
+   desktop <https://italia.github.io/design-archived-prototypes/scuola-low-fi-scenari-desktop/#/screens>`__;
 
 -  `lato
-   mobile <https://projects.invisionapp.com/share/2BN05NVHDXK#/screens>`__.
+   mobile <https://italia.github.io/design-archived-prototypes/scuola-low-fi-scenari-mobile/#/screens>`__.
 
-È disponibile anche un `prototipo completo
-<https://invis.io/SNL5W31PKAD#/316836055_Indice>`_, navigabile nell'area
+Sono disponibili anche un `prototipo completo desktop
+<https://italia.github.io/design-archived-prototypes/scuola-low-fi-completo-desktop/#/screens>`_ e un `prototipo completo mobile <https://italia.github.io/design-archived-prototypes/scuola-low-fi-completo-mobile/#/screens>`_, navigabili nell'area
 pubblica, nell'area personale e in parte delle funzionalità CMS. 
 
-.. table:: Link ai prototipi per i diversi scenari d'uso.
-   :name: prototipi-lofi
+.. list-table:: Link ai prototipi per i diversi scenari d'uso.
+   :widths: 15 10
+   :header-rows: 1
 
-+-----------------------------------+-----------------------------------+
-| **Scenario**                      | **Link al prototipo**             |
-+===================================+===================================+
-| 1. Creazione e visualizzazione    | `Desktop <https://projects.invisi |
-| delle circolari                   | onapp.com/share/KPL5VAUR2DV#/scre |
-|                                   | ens/308557225>`__                 |
-|                                   |                                   |
-|                                   | `Mobile <https://projects.invisio |
-|                                   | napp.com/share/2BN05NVHDXK#/scree |
-|                                   | ns/308300338>`__                  |
-+-----------------------------------+-----------------------------------+
-| 2. Gestione del calendario e      | `Desktop <https://projects.invisi |
-| delle scadenze                    | onapp.com/share/KPL5VAUR2DV#/scre |
-|                                   | ens/309369121>`__                 |
-|                                   |                                   |
-|                                   | `Mobile <https://projects.invisio |
-|                                   | napp.com/share/2BN05NVHDXK#/scree |
-|                                   | ns/308953023>`__                  |
-+-----------------------------------+-----------------------------------+
-| 3. Moduli di richiesta e          | `Mobile <https://projects.invisio |
-| autorizzazione di un              | napp.com/share/2BN05NVHDXK#/scree |
-| servizio/progetto                 | ns/309117022>`__                  |
-|                                   |                                   |
-|                                   |                                   |
-+-----------------------------------+-----------------------------------+
-| 4. Condivisione materiali         | `Desktop <https://projects.invisi |
-| didattici                         | onapp.com/share/KPL5VAUR2DV#/scre |
-|                                   | ens/312226145>`__                 |
-|                                   |                                   |
-|                                   | `Mobile <https://projects.invisio |
-|                                   | napp.com/share/2BN05NVHDXK#/scree |
-|                                   | ns/308908476>`__                  |
-+-----------------------------------+-----------------------------------+
-| 5. Proposte progetti              | `Mobile <https://projects.invisio |
-| extrascolastici                   | napp.com/share/2BN05NVHDXK#/scree |
-|                                   | ns/310945694>`__                  |
-|                                   |                                   |
-|                                   |                                   |
-+-----------------------------------+-----------------------------------+
-| 6\. Pagamento di un servizio      | `Mobile <https://projects.invisio |
-|                                   | napp.com/share/2BN05NVHDXK#/scree |
-|                                   | ns/308654022>`__                  |
-|                                   |                                   |
-+-----------------------------------+-----------------------------------+
-| 7\. Andamento scolastico          | `Desktop <https://projects.invisi |
-|                                   | onapp.com/share/KPL5VAUR2DV#/scre |
-|                                   | ens/311977973>`__                 |
-|                                   |                                   |
-|                                   | `Mobile <https://projects.invisio |
-|                                   | napp.com/share/2BN05NVHDXK#/scree |
-|                                   | ns/309176883>`__                  |
-+-----------------------------------+-----------------------------------+
-| 8. Delega di persona / Richiesta  | `Mobile <https://projects.invisio |
-| di giustificazione                | napp.com/share/2BN05NVHDXK#/scree |
-|                                   | ns/309642454>`__                  |
-|                                   |                                   |
-|                                   |                                   |
-+-----------------------------------+-----------------------------------+
-| 9. Collaborazione all'interno     | `Mobile <https://projects.invisio |
-| della classe                      | napp.com/share/2BN05NVHDXK#/scree |
-|                                   | ns/311538877>`__                  |
-|                                   |                                   |
-|                                   |                                   |
-+-----------------------------------+-----------------------------------+
-| 10\. Bandi e assegnazioni         | `Mobile <https://projects.invisio |
-|                                   | napp.com/share/2BN05NVHDXK#/scree |
-|                                   | ns/310710606>`__                  |
-|                                   |                                   |
-|                                   |                                   |
-+-----------------------------------+-----------------------------------+
-| 11. Raccolta feedback e           | `Mobile <https://projects.invisio |
-| autovalutazione                   | napp.com/share/2BN05NVHDXK#/scree |
-|                                   | ns/309706193>`__                  |
-|                                   |                                   |
-|                                   |                                   |
-+-----------------------------------+-----------------------------------+
-| 12. Racconto della scuola e delle | `Mobile <https://projects.invisio |
-| sue attività (orientamento in     | napp.com/share/2BN05NVHDXK#/scree |
-| entrata / onboarding)             | ns/310192877>`__                  |
-|                                   |                                   |
-|                                   |                                   |
-+-----------------------------------+-----------------------------------+
-| 13. Coinvolgimento degli          | `Mobile <https://projects.invisio |
-| ex-studenti (orientamento in      | napp.com/share/2BN05NVHDXK#/scree |
-| uscita)                           | ns/310446636>`__                  |
-|                                   |                                   |
-|                                   |                                   |
-+-----------------------------------+-----------------------------------+
-| 14\. Inclusione                   | `Mobile <https://projects.invisio |
-|                                   | napp.com/share/2BN05NVHDXK#/scree |
-|                                   | ns/312530515>`__                  |
-|                                   |                                   |
-|                                   |                                   |
-+-----------------------------------+-----------------------------------+
+   * - Scenario
+     - Prototipo
 
+   * - Creazione, visualizzazione e presa visione delle circolari
+     - * `Desktop <https://italia.github.io/design-archived-prototypes/scuola-low-fi-scenari-desktop/#/screens/308557225>`_
+       * `Mobile <https://italia.github.io/design-archived-prototypes/scuola-low-fi-scenari-mobile/#/screens/308300338>`_
+       
+   * - Gestione del calendario e delle scadenze
+     - * `Desktop <https://italia.github.io/design-archived-prototypes/scuola-low-fi-scenari-desktop/#/screens/309369121>`_
+       * `Mobile <https://italia.github.io/design-archived-prototypes/scuola-low-fi-scenari-mobile/#/screens/318657579>`_
+
+   * - Autorizzazione e pagamento gita
+     - * `Mobile <https://italia.github.io/design-archived-prototypes/scuola-low-fi-scenari-mobile/#/screens/309117022>`_
+  
+   * - Condivisione materiali didattici e visualizzazione della proposta didattica
+     - * `Desktop <https://italia.github.io/design-archived-prototypes/scuola-low-fi-scenari-desktop/#/screens/312226145>`_
+       * `Mobile <https://italia.github.io/design-archived-prototypes/scuola-low-fi-scenari-mobile/#/screens/308908476>`_
+
+   * - Proposte progetti extrascolastici
+     - * `Mobile <https://italia.github.io/design-archived-prototypes/scuola-low-fi-scenari-mobile/#/screens/310945694>`_
+ 
+   * - Sottoscrizione e pagamento di un servizio scolastico
+     - * `Mobile <https://italia.github.io/design-archived-prototypes/scuola-low-fi-scenari-mobile/#/screens/308654022>`_
+     
+   * - Visualizzazione andamento scolastico, visualizzazione calendario scolastico e prenotazione colloqui con docenti
+     - * `Desktop <https://italia.github.io/design-archived-prototypes/scuola-low-fi-scenari-desktop/#/screens/311977973>`_
+       * `Mobile <https://italia.github.io/design-archived-prototypes/scuola-low-fi-scenari-mobile/#/screens/309176883>`_
+       
+   * - Delega di persona e richiesta di giustificazione
+     - * `Mobile <https://italia.github.io/design-archived-prototypes/scuola-low-fi-scenari-mobile/#/screens/309642454>`_
+     
+   * - Partecipazione al Forum di classe
+     - * `Mobile <https://italia.github.io/design-archived-prototypes/scuola-low-fi-scenari-mobile/#/screens/311538877>`_
+     
+   * - Bandi e assegnazioni
+     - * `Mobile <https://italia.github.io/design-archived-prototypes/scuola-low-fi-scenari-mobile/#/screens/318223524>`_
+     
+   * - Raccolta feedback e autovalutazione
+     - * `Mobile <https://italia.github.io/design-archived-prototypes/scuola-low-fi-scenari-mobile/#/screens/309706193>`_
+     
+   * - Racconto della scuola e delle sue attività (orientamento in entrata / onboarding)
+     - * `Mobile <https://italia.github.io/design-archived-prototypes/scuola-low-fi-scenari-mobile/#/screens/310192877>`_
+
+   * - Coinvolgimento degli ex-studenti (orientamento in uscita)
+     - * `Mobile <https://italia.github.io/design-archived-prototypes/scuola-low-fi-scenari-mobile/#/screens/310446636>`_
+     
+   * -  Inclusione
+     - * `Mobile <https://italia.github.io/design-archived-prototypes/scuola-low-fi-scenari-mobile/#/screens/312530515>`_
+     
