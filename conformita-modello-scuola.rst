@@ -75,7 +75,7 @@ Riferimenti normativi e tecnici: i temi CMS sono raggiungibili tramite `Designer
      
      
 
-**CC.SC.1.4 - Voci di menù di primo livello**
+**C.SC.1.4 - Voci di menù di primo livello**
 
 Il sito presenta tutte le voci di menù di primo livello, nell'esatto ordine descritto nella documentazione del modello scuole.
 
@@ -87,16 +87,10 @@ Riferimenti normativi e tecnici: le voci del menù sono indicate nel `Grafico de
    :header-rows: 0
 
    * - **Successo**
-     - Le voci obbligatorie del menù sono presenti, corrette e nell'ordine giusto:
-     
-        - "Scuola"
-        - "Servizi"
-        - "Novità"
-        - “Didattica”
-       **e** non sono presenti voci aggiuntive oltre a quelle obbligatorie **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Le voci obbligatorie del menù sono presenti, corrette e nell'ordine giusto ("Scuola", "Servizi", "Novità", “Didattica”) **e** non sono presenti voci aggiuntive oltre a quelle obbligatorie **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
      
    * - **Tolleranza**
-     - Le voci obbligatorie del menù sono presenti, corrette e nell’ordine giusto **e** sono presenti fino a 3 voci aggiuntive **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Le voci obbligatorie del menù sono presenti, corrette e nell’ordine giusto ("Scuola", "Servizi", "Novità", “Didattica”) **e** sono presenti fino a 3 voci aggiuntive **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
    * - **Fallimento**
      - Almeno una delle voci obbligatorie è assente o inesatta **o** le voci obbligatorie sono in ordine errato **o** sono presenti 8 o più voci nel menù di primo livello del sito **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
