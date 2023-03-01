@@ -268,7 +268,7 @@ Da evitare:
 
 **R.SC.2.2 - Licenza e attribuzione**
 
-Il sito della scuola pubblica dati, documenti e informazioni con licenza aperta (es. CC-BY 4.0).
+Il sito della scuola pubblica dati, documenti e informazioni con licenza aperta comunicandolo nella pagina delle note legali del sito come descritto nella documentazione del modello di sito scolastico.
 
 Riferimenti normativi e tecnici: `CAD - Art. 52 d.lgs. 82/2005 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_V-sezione_I-articolo_52.html>`_; `art. 7, comma 1, D.Lgs. n. 33/2013 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33>`_; `d.lgs. n. 36/2006 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-24;36!vig=>`_; `AGID - Linee guida su acquisizione e riuso di software per le pubbliche amministrazioni <https://www.agid.gov.it/it/design-servizi/riuso-open-source/linee-guida-acquisizione-riuso-software-pa>`_; `Documentazione del modello scuole <https://docs.italia.it/italia/designers-italia/design-scuole-docs/it/>`_.
 
