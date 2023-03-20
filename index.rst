@@ -24,6 +24,7 @@ Il sito web delle scuole italiane
    risorse.rst
    allegati-tecnici.rst
    conformita-modello-scuola.rst
+   norme-requisiti-legali.rst
    roadmap.rst
    ricerca.rst
    crediti.rst
