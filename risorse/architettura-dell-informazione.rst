@@ -37,3 +37,28 @@ Il documento di architettura presenta i seguenti vocabolari:
 - Le parole della scuola (argomenti tematici).
 
 
+Struttura delle pagine
+--------------------------
+
+Sebbene i componenti e i contenuti delle pagine siano diversi, la struttura principale è in buona parte comune. Tutte le pagine, infatti, sono formate da una intestazione (header), un’area principale (main) e da un’area piè di pagina (footer).
+
+L'**intestazione (header)** è formata da tre componenti:
+
+- l’intestazione iniziale (slim header) che deve contenere a sinistra l’ente di appartenenza (per le scuole, il Ministero dell'Istruzione e del Merito) e a destra il link di accesso all’area personale, con l’etichetta «Accedi». Una volta fatto l’accesso, verrà presentato l’avatar e il nome e cognome della persona autenticata, con la possibilità di accedere al profilo.
+- l'intestazione principale (header centrale) deve contenere il nome dell’istituzione, eventualmente preceduta dal logo/stemma, può contenere le icone con il collegamento ai social network dell’ente, e deve contenere il link al motore di ricerca;
+- l’intestazione di navigazione (header nav) deve contenere le voci di primo livello della navigazione e può contenere ulteriori collegamenti (ad esempio, a pagine argomento).
+
+L'**area principale (main)** è composta da:
+
+- una intestazione di pagina (ad eccezione dell’homepage, che ne è priva) che presenta le breadcrumb di navigazione, il titolo della pagina e un eventuale sottotitolo o descrizione breve, e gli argomenti con cui è stato taggato il contenuto. Può inoltre contenere la funzione di condivisione della pagina ed un menu che abilita altre azioni (ad esempo «Scarica», «Stampa», «Invia»).
+- la sezione con i contenuti principali, navigabili da un indice di pagina posto sulla sinistra.
+
+Il **piè di pagina (footer)** deve contenere obbligatoriamente i contenuti e i collegamenti previsti dalla normativa:
+
+- indirizzo, codice fiscale/partita IVA, contatti (compresa la posta elettronica certificata);
+- riferimenti all'amministrazione trasparente;
+- l’informativa sul trattamento dei dati personali;
+- eventuali note legali;
+- la dichiarazione di accessibilità;
+- la mappa del sito.
+
