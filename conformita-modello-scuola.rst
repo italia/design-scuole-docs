@@ -10,7 +10,9 @@ Il DTD verifica il rispetto di tutti i criteri di conformità tramite controlli 
 - che il sito sia raggiungibile dagli indirizzi IP **15.160.11.200**, **15.160.250.158** e **18.102.41.229** (è necessario che questi indirizzi non vengano bloccati da un eventuale firewall).
 
 
-A parte il rispetto dei criteri di conformità, sono comunque considerate obbligatorie tutte le buone pratiche che rendono il sito utile, affidabile, facile da usare e accessibile a tutte le persone: completezza e accuratezza delle informazioni, chiarezza di linguaggio, leggibilità dei testi, formattazione appropriata, qualità delle immagini e dei contenuti multimediali.In aggiunta, è obbligatoria anche la presenza del LOGO UE, in ottemperanza alla normativa europea (art. 34 del Reg. UE 2021/241), assicurandosi che ci sia la dicitura «Finanziato dall’Unione Europea - Nextgeneration EU» e che il logo abbia lo stesso risalto e visibilità di altri eventuali simboli.
+A parte il rispetto dei criteri di conformità, sono comunque considerate obbligatorie tutte le buone pratiche che rendono il sito utile, affidabile, facile da usare e accessibile a tutte le persone: completezza e accuratezza delle informazioni, chiarezza di linguaggio, leggibilità dei testi, formattazione appropriata, qualità delle immagini e dei contenuti multimediali.
+
+In aggiunta, è obbligatoria anche la presenza del LOGO UE, in ottemperanza alla normativa europea (art. 34 del Reg. UE 2021/241), assicurandosi che ci sia la dicitura «Finanziato dall’Unione Europea - Nextgeneration EU» e che il logo abbia lo stesso risalto e visibilità di altri eventuali simboli.
 
 
 ``Esperienza utente``
@@ -114,19 +116,19 @@ Riferimenti normativi e tecnici: le voci del menù sono indicate nel `Grafico de
    :header-rows: 0
 
    * - **Successo**
-     - Tutte le voci di menu di secondo livello usate rispecchiano quelli presenti nella `documentazione <https://docs.italia.it/italia/designers-italia/design-scuole-docs/it/>`_:
+     - In tutte le pagine del sito tutte le voci di menu di secondo livello usate rispecchiano quelli presenti nella `documentazione <https://docs.italia.it/italia/designers-italia/design-scuole-docs/it/>`_:
      
         - Per la sezione *Scuola*, sono: “Presentazione”, “I luoghi”, “Le persone”, “I numeri della scuola”, “Le carte della scuola”, “Organizzazione”, “La storia”;
         - Per la sezione *Servizi*, sono: “Famiglie e studenti”, “Personale scolastico”, “Percorsi di studio”;
         - Per la sezione *Novità*, sono: “Le notizie”, “Le circolari”, “Calendario eventi”, “Albo online”;
         - Per la sezione *Didattica*, sono: “Offerta formativa”, “Le schede didattiche”, "I progetti delle classi";
-       **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+       **e** i titoli delle pagine raggiungibili dal menu e i rispettivi titoli usati nelle breadcrumb (ove presenti) devono corrispondere alle voci di menu **e** la posizione della pagina nella struttura delle breadcrumb (ove presenti) deve rispecchiare quella del menu **e** le pagine raggiungibili dalle voci di menu e le relative sezioni di pagina hanno un contenuto coerente con i titoli delle pagine **e**  tutte le pagine raggiungibili dal menu di secondo livello appartengono al dominio della scuola **e** le URL delle pagine devono seguire l’organizzazione dei menu **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
      
    * - **Tolleranza**
-     - Almeno il 30% delle voci di menu di secondo livello usate rispecchiano quelli presenti nella `documentazione <https://docs.italia.it/italia/designers-italia/design-scuole-docs/it/>`_ **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - In tutte le pagine del sito almeno il 30% delle voci di menu di secondo livello usate rispecchiano quelli presenti nella `documentazione <https://docs.italia.it/italia/designers-italia/design-scuole-docs/it/>`_ **e** i titoli delle pagine raggiungibili dal menu e i rispettivi titoli usati nelle breadcrumb (ove presenti) devono corrispondere alle voci di menu **e** la posizione della pagina nella struttura delle breadcrumb (ove presenti) deve rispecchiare quella del menu **e** le pagine raggiungibili dalle voci di menu e le relative sezioni di pagina hanno un contenuto coerente con i titoli delle pagine **e** tutte le pagine raggiungibili dal menu di secondo livello appartengono al dominio della scuola **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
    * - **Fallimento**
-     - Meno del 30% delle voci di menu di secondo livello usate rispecchiano quelle presenti nella `documentazione <https://docs.italia.it/italia/designers-italia/design-scuole-docs/it/>`_ **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - In anche solo una pagina del sito meno del 30% delle voci di menu di secondo livello usate rispecchiano quelle presenti nella `documentazione <https://docs.italia.it/italia/designers-italia/design-scuole-docs/it/>`_ **o** anche solo il titolo di una pagina raggiungibile dal menu o il rispettivo titolo usato nelle breadcrumb (ove presenti) non corrispondono alle voci di menu **o** la posizione di anche solo una pagina nella struttura delle breadcrumb (ove presenti) non rispecchia quella del menu **o** anche solo una delle pagine raggiungibili dalle voci di menu o le relative sezioni di pagina non hanno un contenuto coerente con i titoli delle pagine **o** anche solo una delle pagine raggiungibili dal menu di secondo livello non appartiene al dominio della scuola **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
   
 
@@ -183,13 +185,13 @@ Riferimenti tecnici e normativi: `Linee guida cookie e altri strumenti di tracci
    :header-rows: 0
 
    * - **Successo**
-     - Il dominio di tutti i cookie già presenti nel sito, ovvero senza che sia stata espressa una preferenza da parte dell’utente riguardo il loro uso, è corrispondente al dominio del sito web della scuola **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Il dominio di tutti i cookie già presenti in tutte le pagine del sito, ovvero senza che sia stata espressa una preferenza da parte dell’utente riguardo il loro uso, è corrispondente al dominio del sito web della scuola **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
      
    * - **Tolleranza**
      - /
 
    * - **Fallimento**
-     - Il dominio di anche solo un cookie già presente nel sito, ovvero senza che sia stata espressa una preferenza da parte dell’utente riguardo il suo uso, non è corrispondente al dominio del sito web della scuola **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Il dominio di anche solo un cookie già presente in anche solo una pagina del sito, ovvero senza che sia stata espressa una preferenza da parte dell’utente riguardo il suo uso, non è corrispondente al dominio del sito web della scuola **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
 
 
@@ -207,13 +209,13 @@ Riferimenti tecnici e normativi: `Raccomandazioni AgID in merito allo standard T
    :header-rows: 0
 
    * - **Successo**
-     - Il sito utilizza il protocollo https **e** il certificato https è valido **e** il certificato https non è obsoleto (la versione del TLS e la suite di cifratura associata sono adatte).
+     - Tutte le pagine del sito utilizzano il protocollo https **e** il certificato https è valido **e** il certificato https non è obsoleto (la versione del TLS e la suite di cifratura associata sono adatte).
      
    * - **Tolleranza**
      - /
 
    * - **Fallimento**
-     - Il sito non utilizza il protocollo https **o** il certificato https è scaduto **o** il certificato https è obsoleto (la versione del TLS è obsoleta o la suite di cifratura associata è inadatta).
+     - Anche solo una pagina del sito non utilizza il protocollo https **o** il certificato https è scaduto **o** il certificato https è obsoleto (la versione del TLS è obsoleta o la suite di cifratura associata è inadatta).
 
 
 
