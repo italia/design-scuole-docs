@@ -5,7 +5,7 @@ Risorse
 
 Tutte le risorse, pronte all'uso, per aderire al modello di sito istituzionale scolastico in modo rapido e basso costo.
 
-Usa lo `strumento checklist <https://docs.google.com/document/d/1MbU5jbYIfgwGEF3v_rHlspOyTnh75JsX9Nwzw-SCR1I/edit?usp=sharing>`_ per assicurarti di svolgere tutte le attività necessarie ad una corretta implementazione del modello.
+Usa lo `strumento checklist (ODT 47KB) <https://designers.italia.it/files/resources/modelli/scuole/adotta-il-modello-di-sito-scolastico/comprendi-lo-stato-dell-arte/Strumento-checklist-sito-scuole.odt>`_ per assicurarti di svolgere tutte le attività necessarie ad una corretta implementazione del modello.
 
 .. toctree::
    :maxdepth: 3
