@@ -86,7 +86,7 @@ Riferimenti normativi e tecnici: i temi CMS sono raggiungibili tramite `Designer
 
 Il sito presenta tutte le voci di menù di primo livello, nell'esatto ordine descritto nella documentazione del modello scuole.
 
-Riferimenti normativi e tecnici: le voci del menù sono indicate nel `Grafico dell’alberatura <https://docs.google.com/drawings/d/1yEFOj3S7vciOoehm9Sa51ahvzsEXpqHCiPria-K7o_k/edit>`_ all’interno del `documento di Architettura dell’informazione del modello scuole <https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit#gid=782511705>`_; `Documentazione del modello scuole <https://docs.italia.it/italia/designers-italia/design-scuole-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
+Riferimenti normativi e tecnici: le voci del menù sono indicate nel `Grafico dell’alberatura (PDF 27KB) <https://designers.italia.it/files/resources/modelli/scuole/adotta-il-modello-di-sito-scolastico/definisci-architettura-e-contenuti/Alberatura-ModelloScuole-DesignersItalia.pdf>`_ all’interno del `documento di Architettura dell’informazione del modello scuole (ODS 337KB) <https://designers.italia.it/files/resources/modelli/scuole/adotta-il-modello-di-sito-scolastico/definisci-architettura-e-contenuti/Architettura-informazione-sito-scuole.ods>`_; `Documentazione del modello scuole <https://docs.italia.it/italia/designers-italia/design-scuole-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
 
 
 .. list-table::
@@ -108,7 +108,7 @@ Riferimenti normativi e tecnici: le voci del menù sono indicate nel `Grafico de
 
 Il sito presenta le voci di menù di secondo livello come descritto nella documentazione del modello di sito della scuola.
 
-Riferimenti normativi e tecnici: le voci del menù sono indicate nel `Grafico dell’alberatura <https://docs.google.com/drawings/d/1yEFOj3S7vciOoehm9Sa51ahvzsEXpqHCiPria-K7o_k/edit>`_ all’interno del `documento di Architettura dell’informazione del modello scuole <https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit#gid=782511705>`_; `Documentazione del modello scuole <https://docs.italia.it/italia/designers-italia/design-scuole-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
+Riferimenti normativi e tecnici: le voci del menù sono indicate nel `Grafico dell’alberatura (PDF 27KB) <https://designers.italia.it/files/resources/modelli/scuole/adotta-il-modello-di-sito-scolastico/definisci-architettura-e-contenuti/Alberatura-ModelloScuole-DesignersItalia.pdf>`_ all’interno del `documento di Architettura dell’informazione del modello scuole (ODS 337KB) <https://designers.italia.it/files/resources/modelli/scuole/adotta-il-modello-di-sito-scolastico/definisci-architettura-e-contenuti/Architettura-informazione-sito-scuole.ods>`_; `Documentazione del modello scuole <https://docs.italia.it/italia/designers-italia/design-scuole-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
 
 
 .. list-table::
@@ -231,11 +231,11 @@ Per migliorare ulteriormente l’esperienza dei cittadini e garantire l’uso di
 
 Il sito utilizza i vocabolari forniti dal modello di sito per le scuole.
 
-Riferimenti normativi e tecnici: il vocabolario controllato del modello è disponibile alla voce `Le parole della scuola <https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit#gid=2135815526>`_ all’interno del `documento di Architettura dell’informazione del modello scuole <https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit#gid=782511705>`_; `Documentazione del modello scuole <https://docs.italia.it/italia/designers-italia/design-scuole-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
+Riferimenti normativi e tecnici: il vocabolario controllato del modello è disponibile alla voce Le parole della scuola all’interno del `documento di Architettura dell’informazione del modello scuole (ODS 337KB) <https://designers.italia.it/files/resources/modelli/scuole/adotta-il-modello-di-sito-scolastico/definisci-architettura-e-contenuti/Architettura-informazione-sito-scuole.ods>`_; `Documentazione del modello scuole <https://docs.italia.it/italia/designers-italia/design-scuole-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
 
 Da evitare:
 
-- più del 50% degli argomenti non appartengono alle `voci del modello scuole <https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit#gid=2135815526>`_;
+- più del 50% degli argomenti non appartengono alle voci del modello scuole;
 - l’elenco completo degli argomenti utilizzati non è presente nella pagina dei risultati di ricerca;
 - il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
@@ -244,7 +244,7 @@ Da evitare:
 
 Le schede informative dei servizi mostrano gli attributi segnalati all’interno dell’architettura dell’informazione, nell’ordine segnalato nella documentazione del modello.
 
-Riferimenti normativi e tecnici: sezione `CT: Servizio <https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit#gid=0>`_ all’interno del `documento di Architettura dell’informazione del modello scuole <https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit#gid=782511705>`_; `Documentazione del modello scuole <https://docs.italia.it/italia/designers-italia/design-scuole-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
+Riferimenti normativi e tecnici: sezione "CT: Servizio" all’interno del `documento di Architettura dell’informazione del modello scuole (ODS 337KB) <https://designers.italia.it/files/resources/modelli/scuole/adotta-il-modello-di-sito-scolastico/definisci-architettura-e-contenuti/Architettura-informazione-sito-scuole.ods>`_; `Documentazione del modello scuole <https://docs.italia.it/italia/designers-italia/design-scuole-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
 
 
 Da evitare:
