@@ -9,17 +9,17 @@ Il redesign di un sito, infatti, è un’ottima opportunità per riorganizzare, 
 .. topic:: Attività di migrazione
    :class: procedure
    
-   1. Usa il `Modello di analisi dei contenuti <https://docs.google.com/spreadsheets/d/1tmVB0unvsZ5wViYFtyaf95t69Pt4a5JAIFmGdjJjdwI/edit#gid=1126404963>`_ e fai una lista di tutte le pagine del vecchio sito, indicando le struttura gerarchica e le URL.
+   1. Usa il `Modello di analisi dei contenuti (ODS 42KB) <https://designers.italia.it/files/resources/risorse-per-progettare/progettare/contenuti-e-linguaggio/analizza-contenuti/DI-Modello-analisi-contenuti.ods>`_ e fai una lista di tutte le pagine del vecchio sito, indicando le struttura gerarchica e le URL.
    
    2. Passa in rassegna le pagine del vecchio sito, aiutandoti con strumenti per l'analisi dei dati open source come, ad esempio, `Web Analytics Italia <https://webanalytics.italia.it/>`_, `Matomo <https://matomo.org/>`_ e `Plausible <https://plausible.io/>`_. Segna sul Modello di analisi dei contenuti quali sono le pagine più visitate, i contenuti più efficaci per gli utenti ed eventuali problematiche come dati mancanti o incorretti. Questa operazione è chiamata “content audit” e ti aiuterà a decidere cosa migrare e cosa no.
    
-   3. Consulta `la struttura del nuovo sito <https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit#gid=782511705>`_ e affiancala a quella del vecchio, cercando il più possibile di far corrispondere una ad una le pagine (corrispondenza biunivoca).
+   3. Consulta la struttura del nuovo sito sul `documento di archittetura (ODS 337KB) <https://designers.italia.it/files/resources/modelli/scuole/adotta-il-modello-di-sito-scolastico/definisci-architettura-e-contenuti/Architettura-informazione-sito-scuole.ods>`_ e affiancala a quella del vecchio, cercando il più possibile di far corrispondere una ad una le pagine (corrispondenza biunivoca).
    
-   4. A ogni pagina, assegna la corretta Tipologia di contenuto dal `documento di architettura <https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit#gid=782511705>`_.
+   4. A ogni pagina, assegna la corretta Tipologia di contenuto dal `documento di architettura (ODS 337KB) <https://designers.italia.it/files/resources/modelli/scuole/adotta-il-modello-di-sito-scolastico/definisci-architettura-e-contenuti/Architettura-informazione-sito-scuole.ods>`_.
    
    5. Controlla gli attributi obbligatori per ogni Tipologia di contenuto e riscrivi i tuoi contenuti. Consulta la `Guida al linguaggio della Pubblica Amministrazione <https://docs.italia.it/italia/designers-italia/writing-toolkit/it/bozza/index.html>`_ per allineare il linguaggio in termini di tono di voce e vocabolario.
    
-   6. Scegli i contenuti multimediali (immagini e video) da migrare o individuane di nuovi. Prediligi i contenuti di buona qualità e con una risoluzione ottimizzata per il web. Ricorda che se i contenuti ritraggono delle persone, devi per legge `ottenere il loro consenso <https://docs.google.com/document/d/1HHyrk8L86XHuC0NOCAnSDY68Bjbjpp0vxvk5cL330vo/edit>`_.
+   6. Scegli i contenuti multimediali (immagini e video) da migrare o individuane di nuovi. Prediligi i contenuti di buona qualità e con una risoluzione ottimizzata per il web. Ricorda che se i contenuti ritraggono delle persone, devi per legge `ottenere il loro consenso <https://designers.italia.it/risorse-per-progettare/progettare/contenuti-e-linguaggio/rispetta-la-privacy-quando-usi-i-contenuti/>`_.
    
    7. Stabiliti i titoli delle pagine, prendi nota delle nuove URL e affiancale a quelle vecchie su un file CSV. Questo documento ti servirà per impostare i reindirizzamenti (redirects) una volta che il nuovo sito è online. Sul documento, specifica se si tratta di reindirizzamenti 301 (definitivi) o 302 (temporanei). Se un pagina del sito precedente non ha una corrispondenza con una del nuovo, è consigliato scegliere una pagina che tratti un argomento affine.
 
