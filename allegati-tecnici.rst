@@ -17,17 +17,13 @@ La tabella seguente raccoglie tutti i documenti tecnici relativi al progetto e l
      - Collegamento
 
 
-   * - Architettura dell'informazione: navigation tree
-     - Google Drawings
-     - `Vai al grafico <https://docs.google.com/drawings/d/1qzpCZrTc1x7IxdQ9WEw_wO0qn-mUk6mIRtSgJlmIz7g/edit?usp=sharing>`_
+   * - Documento di Architettura dell'informazione
+     - ODS,337KB
+     - `Scarica <https://designers.italia.it/files/resources/modelli/scuole/adotta-il-modello-di-sito-scolastico/definisci-architettura-e-contenuti/Architettura-informazione-sito-scuole.ods>`_
 
-   * - Architettura dell'informazione: lista tag per classificazione contenuti
-     - Foglio di lavoro
-     - `Vai al documento <https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit#gid=2135815526>`_
-
-   * - Architettura dell'informazione: tutti i content type
-     - Fogli di lavoro
-     - `Vai al documento <https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit?usp=sharing>`_
+   * - Grafico dell'alberatura del sito scolastico
+     - PDF, 27KB
+     - `Scarica <https://designers.italia.it/files/resources/modelli/scuole/adotta-il-modello-di-sito-scolastico/definisci-architettura-e-contenuti/Alberatura-ModelloScuole-DesignersItalia.pdf>`_
    
    * - Template HTML (anteprime)
      - Pagine HTML
@@ -41,9 +37,9 @@ La tabella seguente raccoglie tutti i documenti tecnici relativi al progetto e l
      - Repo GitHub
      - `Vai al tema WordPress <https://github.com/italia/design-scuole-wordpress-theme>`_
    
-   * - Strumento checklist delle attività per l'adozione al modello
-     - Google Doc
-     - `Vai allo strumento <https://docs.google.com/document/d/1MbU5jbYIfgwGEF3v_rHlspOyTnh75JsX9Nwzw-SCR1I/edit?usp=sharing>`_
+   * - Strumento checklist delle attività per l'adozione del modello
+     - ODT, 47KB
+     - `Scarica <https://designers.italia.it/files/resources/modelli/scuole/adotta-il-modello-di-sito-scolastico/comprendi-lo-stato-dell-arte/Strumento-checklist-sito-scuole.odt>`_
 
    * - Prototipi media definizione (**in aggiornamento**)
      - Sketch

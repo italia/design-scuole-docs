@@ -111,13 +111,10 @@ Il progetto prevede una chiara identificazione e caratterizzazione dei modelli
 di pagina (*content type*) in modo da ridurre il numero di template e strutturare
 il contenuto. 
 
-`Vai al documento di architettura dell'informazione <https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit?usp=sharing>`_
-
 Il progetto prevede che tutti i contenuti della scuola siano in relazione tra
 loro attraverso un sistema di etichette (tag) da inserire in fase di
 pubblicazione dei contenuti. In occasione di migrazione del sito verso il nuovo
 modello, sarà utile applicare questa classificazione anche ai principali
 contenuti “storici”. 
 
-`Vai alla lista dei tag da utilizzare ("le parole della scuola") <https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit#gid=2135815526>`_
-
+`Vai al documento di architettura dell'informazione (ODS 337KB) <https://designers.italia.it/files/resources/modelli/scuole/adotta-il-modello-di-sito-scolastico/definisci-architettura-e-contenuti/Architettura-informazione-sito-scuole.ods>`_
