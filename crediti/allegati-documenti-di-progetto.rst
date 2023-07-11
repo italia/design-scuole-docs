@@ -33,7 +33,7 @@ dal bando di gara fino ai più recenti prototipi.
 
    * - Lavori preliminari
      - PDF
-     - `Workshop 2017 (2.1MB)) <https://designers.italia.it/files/resources/modelli/scuole/ricerca/Scuole-WorkshopLuglio2017.pdf>`_
+     - `Workshop 2017 (2.1MB) <https://designers.italia.it/files/resources/modelli/scuole/ricerca/Scuole-WorkshopLuglio2017.pdf>`_
 
        `Workshop: funzioni del sito ed esigenze degli utenti (38KB) <https://designers.italia.it/files/resources/modelli/scuole/ricerca/Scuole-WorkshopFunzioniEsigenze.pdf>`_
 
