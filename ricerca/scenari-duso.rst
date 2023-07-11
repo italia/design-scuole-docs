@@ -5,8 +5,7 @@ Scenari d'uso
 
 Gli scenari d’uso individuati nel percorso che dalla ricerca ha portato alla prototipazione del modello hanno fatto emergere alcune delle operazioni tipiche che vengono svolte in un sito scolastico. La :numref:`Tabella %s <scenari>` 
 mostra i 14 scenari fin qui sviluppati e la descrizione delle
-operazioni collegate. È disponibile anche una `mappa degli scenari 
-<https://drive.google.com/file/d/1Wa7QbNBT3orkwp5r9AjCNK4d1Q60Iv8I/view?usp=sharing>`_,
+operazioni collegate. È disponibile anche una `mappa degli scenari (PDF 195KB) <https://designers.italia.it/files/resources/modelli/scuole/ricerca/Scuole-Mappa Scenari.pdf>`_,
 distribuiti nel corso di un ipotetico anno scolastico fra le varie *personas*.
 
 Come per l’architettura dell’informazione, anche gli scenari d’uso individuati hanno preso in considerazione aspetti più ampi di quelli effettivamente sviluppati nel modello. Si tratta di buone pratiche che sono comunque a disposizione, e che negli anni hanno permesso lo sviluppo di servizi più aderenti alle concrete necessità della comunità scolastica. 
@@ -136,8 +135,4 @@ Come per l’architettura dell’informazione, anche gli scenari d’uso individ
    |                                   | Monitoraggio e colloqui           |
    +-----------------------------------+-----------------------------------+
 
-Consulta maggiori `dettagli sugli scenari
-d'uso <https://drive.google.com/drive/folders/1-KKoXFLtQ_XTdufVn2LeMlDrAo2GFMhd?usp=sharing>`__.
 
-Consulta la `mappa degli scenari 
-<https://drive.google.com/file/d/1Wa7QbNBT3orkwp5r9AjCNK4d1Q60Iv8I/view?usp=sharing>`_.
