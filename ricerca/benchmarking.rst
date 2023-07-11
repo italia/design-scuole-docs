@@ -61,6 +61,6 @@ e la :numref:`Tabella %s <scuole-estero>`).
    | Eriksdalsskolan                   | Stoccolma, SE |
    +-----------------------------------+---------------+
 
-Puoi consultare i `dettagli dell'analisi <https://docs.google.com/spreadsheets/d/1hHbQxRBy1TkVHoSBqL1GOfympT3nMb5vgAb9PTHTA0s/edit?usp=sharing>`_
-e una `sintesi dei risultati <https://docs.google.com/presentation/d/1qXIYqJRMFwrxKhYo92BCvxRes63huJU3DHNYY2qI6tE/edit?usp=sharing>`_
+Puoi consultare i `dettagli dell'analisi (ODS 33KB) <https://designers.italia.it/files/resources/modelli/scuole/ricerca/Scuole-AnalisiBenchmark.ods>`_
+e una `sintesi dei risultati (PDF 274KB) <https://designers.italia.it/files/resources/modelli/scuole/ricerca/Scuole-BenchmarkSintesiRisultati.pdf>`_
 nei documenti allegati. 
