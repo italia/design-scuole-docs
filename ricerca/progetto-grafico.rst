@@ -76,5 +76,5 @@ la :numref:`Figura %s <servizi>`).
 
 
 
-I prototipi sono stati sottoposti a un processo di valutazione esperta da parte di designer e personale scolastico. I `risultati della valutazione sono disponibili qui <https://docs.google.com/document/d/18EFUs2YiOMS58iDGonJ131lM4foqIGVVs51NdVKj__0/edit?usp=sharing>`_ e hanno permesso di aggiornare e migliorare i prototipi.
+I prototipi sono stati sottoposti a un processo di validazione esperta da parte di designer e personale scolastico. I `risultati della validazione (PDF 103KB) <https://designers.italia.it/files/resources/modelli/scuole/ricerca/Scuole-D3SummaryReportValidazioneConcept.pdf>`_ hanno permesso di aggiornare e migliorare i prototipi.
 
