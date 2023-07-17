@@ -56,9 +56,6 @@ Ciò ha permesso di dividere il campione di persone in gruppi, in base a
    - n\. 23 autonomo (es. usa web/app per accedere a servizi);              
    - n\. 38 avanzato (es. il proprio lavoro si basa su strumenti digitali). 
 
-Maggiori informazioni sulle `metodologie e sui risultati ottenuti
-durante la fase di
-ricerca <https://docs.google.com/presentation/d/1lelBDDv-VyqK6WE7GLnFp7K0PgZaSxJmMpPoTOp5txw/edit?usp=sharing>`__.
 
 .. _interviste-agli-stakeholder:
 

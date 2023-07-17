@@ -14,7 +14,7 @@ positivo sull'uso del digitale, in cui, tuttavia, è possibile
 identificare aree di ulteriore miglioramento.
 
 Consulta nel dettaglio i `risultati della ricerca
-quantitativa iniziale (2018) <https://docs.google.com/presentation/d/1VLF0QwVGFba7XQppWjdjh2cxDAq0_19XnTurXegilDA/edit?usp=sharing>`__
+quantitativa del 2018 (PDF 1.5KB) <https://designers.italia.it/files/resources/modelli/scuole/ricerca/Scuole-RicercaQuantitativa.pdf>`__
 
 
 .. admonition:: deepening
