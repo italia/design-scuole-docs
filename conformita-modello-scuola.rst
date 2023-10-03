@@ -51,13 +51,13 @@ Riferimenti normativi e tecnici: `Bootstrap Italia <https://italia.github.io/boo
    :header-rows: 0
 
    * - **Successo**
-     - In tutte le pagine del sito viene utilizzata la libreria Bootstrap Italia **e** la libreria Bootstrap Italia è presente nel tag <head> delle pagine del sito **e** la versione in uso è uguale o superiore alla 1.6 **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
+     - In tutte le pagine del sito viene utilizzata la libreria Bootstrap Italia **e** la libreria Bootstrap Italia è presente nel tag <head> delle pagine del sito **e** si usano i fondamenti visuali (almeno griglie, spaziature, tipografia) messi a disposizione da Bootstrap Italia **e** si usano solo componenti messi a disposizione da Bootstrap Italia, laddove presenti (es: se c'è bisogno di creare un form è obbligatorio utilizzare i componenti di tipo "form" disponibili nella libreria) **e** la versione in uso è uguale o superiore alla 1.6 **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
      
    * - **Tolleranza**
      - /
      
    * - **Fallimento**
-     - In anche solo una delle pagine del sito non viene utilizzata la libreria Bootstrap Italia **o** la libreria Bootstrap Italia non è presente nel tag <head> delle pagine del sito **o** la versione in uso è precedente alla 1.6 **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
+     - In anche solo una delle pagine del sito non viene utilizzata la libreria Bootstrap Italia **o** la libreria Bootstrap Italia non è presente nel tag <head> delle pagine del sito **o** non si usano i fondamenti visuali (almeno griglie, spaziature, tipografia) messi a disposizione da Bootstrap Italia ** o non si usano solo componenti messi a disposizione da Bootstrap Italia, laddove presenti (es: se c'è bisogno di creare un form è obbligatorio utilizzare i componenti di tipo "form" disponibili nella libreria) **o** la versione in uso è precedente alla 1.6 **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
 
  
 
@@ -94,13 +94,13 @@ Riferimenti normativi e tecnici: le voci del menù sono indicate nel `Grafico de
    :header-rows: 0
 
    * - **Successo**
-     - In tutte le pagine del sito le voci obbligatorie del menù sono presenti, corrette e nell'ordine giusto ("Scuola", "Servizi", "Novità", “Didattica”) **e** non sono presenti voci aggiuntive oltre a quelle obbligatorie **e** i titoli delle pagine raggiungibili dal menu e i rispettivi titoli usati nelle breadcrumb (ove presenti) devono corrispondere alle voci di menu **e** la posizione della pagina nella struttura delle breadcrumb (ove presenti) deve rispecchiare quella del menu **e** le URL delle pagine devono seguire l’organizzazione dei menu **e** le pagine raggiungibili dalle voci di menu e le relative sezioni di pagina hanno un contenuto coerente con i titoli delle pagine **e** tutte le pagine raggiungibili dal menu di primo livello appartengono al dominio della scuola **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - In tutte le pagine del sito le voci obbligatorie del menù sono presenti, corrette e nell'ordine giusto ("Scuola", "Servizi", "Novità", “Didattica”) **e** non sono presenti voci aggiuntive oltre a quelle obbligatorie **e** tramite le voci di menu di primo livello è possibile raggiungere le corrispondenti pagine di primo livello **e** la posizione della pagina deve essere indicata nella struttura delle breadcrumb e rispecchiare quella del menu **e** le URL delle pagine devono seguire l’organizzazione dei menu **e** le pagine raggiungibili dalle voci di menu e le relative sezioni di pagina hanno un contenuto coerente con i titoli delle pagine **e** tutte le pagine raggiungibili dal menu di primo livello appartengono al dominio della scuola **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
      
    * - **Tolleranza**
-     - In tutte le pagine del sito le voci obbligatorie del menù sono presenti, corrette e nell’ordine giusto ("Scuola", "Servizi", "Novità", “Didattica”) **e** sono presenti fino a 3 voci aggiuntive **e** i titoli delle pagine raggiungibili dal menu e i rispettivi titoli usati nelle breadcrumb (ove presenti) devono corrispondere alle voci di menu **e** la posizione della pagina nella struttura delle breadcrumb (ove presenti) deve rispecchiare quella del menu **e** le pagine raggiungibili dalle voci di menu e le relative sezioni di pagina hanno un contenuto coerente con i titoli delle pagine **e** tutte le pagine raggiungibili dal menu di primo livello appartengono al dominio della scuola **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - In tutte le pagine del sito le voci obbligatorie del menù sono presenti, corrette e nell’ordine giusto ("Scuola", "Servizi", "Novità", “Didattica”) **e** sono presenti fino a 3 voci aggiuntive **e** tramite le voci di menu di primo livello è possibile raggiungere le corrispondenti pagine di primo livello **e** la posizione della pagina deve essere indicata nella struttura delle breadcrumb e rispecchiare quella del menu **e** le pagine raggiungibili dalle voci di menu e le relative sezioni di pagina hanno un contenuto coerente con i titoli delle pagine **e** tutte le pagine raggiungibili dal menu di primo livello appartengono al dominio della scuola **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
    * - **Fallimento**
-     - In anche solo una delle pagine del sito almeno una delle voci obbligatorie è assente o inesatta **o** le voci obbligatorie sono in ordine errato **o** sono presenti 8 o più voci nel menù di primo livello del sito **o** anche solo il titolo di una pagina raggiungibile dal menu o il rispettivo titolo usato nelle breadcrumb (ove presenti) non corrispondono alle voci di menu **o** la posizione di anche solo una pagina nella struttura delle breadcrumb (ove presenti) non rispecchia quella del menu **o** anche solo una delle pagine raggiungibili dalle voci di menu o le relative sezioni di pagina non hanno un contenuto coerente con i titoli delle pagine **o** anche solo una delle pagine raggiungibili dal menu di primo livello non appartiene al dominio della scuola **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - In anche solo una delle pagine del sito almeno una delle voci obbligatorie è assente o inesatta **o** le voci obbligatorie sono in ordine errato **o** sono presenti 8 o più voci nel menù del sito **o** tramite le voci di menu di primo livello non è possibile raggiungere le corrispondenti pagine di primo livello **o** la posizione di anche solo una pagina non è indicata nella struttura delle breadcrumb o non rispecchia quella del menu **o** anche solo una delle pagine raggiungibili dalle voci di menu o le relative sezioni di pagina non hanno un contenuto coerente con i titoli delle pagine **o** anche solo una delle pagine raggiungibili dal menu di primo livello non appartiene al dominio della scuola **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
 
 
@@ -122,13 +122,13 @@ Riferimenti normativi e tecnici: le voci del menù sono indicate nel `Grafico de
         - Per la sezione *Servizi*, sono: “Famiglie e studenti”, “Personale scolastico”, “Percorsi di studio”;
         - Per la sezione *Novità*, sono: “Le notizie”, “Le circolari”, “Calendario eventi”, “Albo online”;
         - Per la sezione *Didattica*, sono: “Offerta formativa”, “Le schede didattiche”, "I progetti delle classi";
-       **e** i titoli delle pagine raggiungibili dal menu e i rispettivi titoli usati nelle breadcrumb (ove presenti) devono corrispondere alle voci di menu **e** la posizione della pagina nella struttura delle breadcrumb (ove presenti) deve rispecchiare quella del menu **e** le pagine raggiungibili dalle voci di menu e le relative sezioni di pagina hanno un contenuto coerente con i titoli delle pagine **e**  tutte le pagine raggiungibili dal menu di secondo livello appartengono al dominio della scuola **e** le URL delle pagine devono seguire l’organizzazione dei menu **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+       **e** i titoli delle pagine raggiungibili dal menu e i rispettivi titoli usati nelle breadcrumb devono corrispondere alle voci di menu **e** la posizione della pagina deve essere indicata nella struttura delle breadcrumb e rispecchiare quella del menu **e** le pagine raggiungibili dalle voci di menu e le relative sezioni di pagina hanno un contenuto coerente con i titoli delle pagine **e**  tutte le pagine raggiungibili dal menu di secondo livello appartengono al dominio della scuola **e** le URL delle pagine devono seguire l’organizzazione dei menu **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
      
    * - **Tolleranza**
-     - In tutte le pagine del sito almeno il 30% delle voci di menu di secondo livello usate rispecchiano quelli presenti nella `documentazione <https://docs.italia.it/italia/designers-italia/design-scuole-docs/it/>`_ **e** i titoli delle pagine raggiungibili dal menu e i rispettivi titoli usati nelle breadcrumb (ove presenti) devono corrispondere alle voci di menu **e** la posizione della pagina nella struttura delle breadcrumb (ove presenti) deve rispecchiare quella del menu **e** le pagine raggiungibili dalle voci di menu e le relative sezioni di pagina hanno un contenuto coerente con i titoli delle pagine **e** tutte le pagine raggiungibili dal menu di secondo livello appartengono al dominio della scuola **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - In tutte le pagine del sito almeno il 30% delle voci di menu di secondo livello usate rispecchiano quelli presenti nella `documentazione <https://docs.italia.it/italia/designers-italia/design-scuole-docs/it/>`_ **e** i titoli delle pagine raggiungibili dal menu e i rispettivi titoli usati nelle breadcrumb devono corrispondere alle voci di menu **e** la posizione della pagina deve essere indicata nella struttura delle breadcrumb e rispecchiare quella del menu **e** le pagine raggiungibili dalle voci di menu e le relative sezioni di pagina hanno un contenuto coerente con i titoli delle pagine **e** tutte le pagine raggiungibili dal menu di secondo livello appartengono al dominio della scuola **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
    * - **Fallimento**
-     - In anche solo una pagina del sito meno del 30% delle voci di menu di secondo livello usate rispecchiano quelle presenti nella `documentazione <https://docs.italia.it/italia/designers-italia/design-scuole-docs/it/>`_ **o** anche solo il titolo di una pagina raggiungibile dal menu o il rispettivo titolo usato nelle breadcrumb (ove presenti) non corrispondono alle voci di menu **o** la posizione di anche solo una pagina nella struttura delle breadcrumb (ove presenti) non rispecchia quella del menu **o** anche solo una delle pagine raggiungibili dalle voci di menu o le relative sezioni di pagina non hanno un contenuto coerente con i titoli delle pagine **o** anche solo una delle pagine raggiungibili dal menu di secondo livello non appartiene al dominio della scuola **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - In anche solo una pagina del sito meno del 30% delle voci di menu di secondo livello usate rispecchiano quelle presenti nella `documentazione <https://docs.italia.it/italia/designers-italia/design-scuole-docs/it/>`_ **o** anche solo il titolo di una pagina raggiungibile dal menu o il rispettivo titolo usato nelle breadcrumb non corrispondono alle voci di menu **o** la posizione di anche solo una pagina non è indicata nella struttura delle breadcrumb o non rispecchia quella del menu **o** anche solo una delle pagine raggiungibili dalle voci di menu o le relative sezioni di pagina non hanno un contenuto coerente con i titoli delle pagine **o** anche solo una delle pagine raggiungibili dal menu di secondo livello non appartiene al dominio della scuola **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
   
 
@@ -301,3 +301,51 @@ Riferimenti normativi e tecnici: `LIGHTHOUSE performance scoring guide <https://
 Da evitare:
 
 - il sito presenta livelli di prestazione (media pesata di 6 metriche standard) inferiori a 50 quando testato in modalità “mobile” tramite le `librerie Lighthouse <https://web.dev/performance-scoring/>`_.
+
+
+Buone pratiche necessarie per superare l'asseverazione
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Ogni pagina/contenuto deve essere pubblicato nella sezione più coerente rispetto all'alberatura del sito e tutte le pagine devono avere breadcrumb coerenti con la loro posizione nel menu e nella struttura del sito. (Esempio: la pagina relativa alla notizia "Iscrizioni a.s. 2023/24" non passerebbe il controllo con la seguente breadcrumb "Home > Iscrizioni a.s.2023/24". La breadcrumb corretta sarebbe " Home > Novità > Le notizie > Iscrizioni a.s. 2023/24").
+
+2. Voci di menu e titoli di pagina non possono essere interamente in maiuscolo o in corsivo (a meno che non siano sigle o acronimi)
+
+3. Usare in modo corretto e sporadico il grassetto, il corsivo e il maiuscolo
+
+4. Tutte le pagine devono avere un titolo coerente con il tipo di contenuto, breadcrumb coerenti con l'alberatura del sito e contenuti chiari, coerenti, corretti e completi delle informazioni essenziali. In particolare, i seguenti content type devono includere almeno i seguenti attributi (N.B. Le descrizioni devono essere sempre presenti come testo in pagina):
+
+.. list-table::
+   :widths: 10 30 30
+   :header-rows: 1
+
+   * - Content Type
+     - Sezione di riferimento
+     - Attributi obbligatori
+     
+   * - Struttura organizzativa
+     - Scuola > Organizzazione
+     - - Descrizione (breve o estesa)
+       - Cosa fa (Descrizione dei compiti assegnati alla struttura)
+       - Almeno uno tra: (1) Sede con indirizzo, (2) Orari per il pubblico, (3) Contatti
+
+   * - Percorso/Indirizzo di studio
+     - Servizi > Percorsi di studio
+     - - Grado del percorso/indirizzo (per esempio: Infanzia, Primaria, Secondaria primo grado, Secondaria secondo grado, Percorsi di istruione e formazione professionale)
+       - Descrizione (breve o estesa)
+       - Almeno uno tra: (1) Come accede al percorso/indirizzo, (2) Contatti
+
+   * - Documenti
+     - Scuola > Le carte della scuola
+     - - Descrizione (breve o estesa)
+       - Documento principale (allegato scaricabile o link al documento)
+       - Almeno uno tra: (1) Ufficio respondabile del documento, (2) Tipo di documento (per esempio: Documento didattico, Regolamento, Verbale, etc)
+
+   * - Circolare
+     - Novità > Circolari
+     - - Tipologia circolare (a chi è rivolta, se personale o famiglie/studenti)
+       - Almeno uno tra: (1) Testo della circolare, (2) Descrizione del contenuto della circolare
+
+   * - Scheda didattica
+     - Didattica > Schede didattiche
+     - - Obiettivi della scheda didattica
+       - Descrizione delle attività proposte
